@@ -1,0 +1,5794 @@
+[
+  [
+    {
+      "offset": 0,
+      "size": 4,
+      "kor": "조조"
+    },
+    {
+      "offset": 43,
+      "size": 4,
+      "kor": "유비"
+    },
+    {
+      "offset": 86,
+      "size": 4,
+      "kor": "손견"
+    },
+    {
+      "offset": 129,
+      "size": 4,
+      "kor": "원소"
+    },
+    {
+      "offset": 172,
+      "size": 4,
+      "kor": "원술"
+    },
+    {
+      "offset": 215,
+      "size": 4,
+      "kor": "마등"
+    },
+    {
+      "offset": 258,
+      "size": 4,
+      "kor": "유언"
+    },
+    {
+      "offset": 301,
+      "size": 4,
+      "kor": "유표"
+    },
+    {
+      "offset": 344,
+      "size": 4,
+      "kor": "동탁"
+    },
+    {
+      "offset": 387,
+      "size": 6,
+      "kor": "공손찬"
+    },
+    {
+      "offset": 430,
+      "size": 4,
+      "kor": "도겸"
+    },
+    {
+      "offset": 473,
+      "size": 4,
+      "kor": "한복"
+    },
+    {
+      "offset": 516,
+      "size": 4,
+      "kor": "공융"
+    },
+    {
+      "offset": 559,
+      "size": 4,
+      "kor": "왕랑"
+    },
+    {
+      "offset": 602,
+      "size": 4,
+      "kor": "유엽"
+    },
+    {
+      "offset": 645,
+      "size": 4,
+      "kor": "서영"
+    },
+    {
+      "offset": 688,
+      "size": 4,
+      "kor": "이각"
+    },
+    {
+      "offset": 731,
+      "size": 4,
+      "kor": "고패"
+    },
+    {
+      "offset": 774,
+      "size": 4,
+      "kor": "유장"
+    },
+    {
+      "offset": 817,
+      "size": 6,
+      "kor": "공손월"
+    },
+    {
+      "offset": 860,
+      "size": 4,
+      "kor": "전풍"
+    },
+    {
+      "offset": 903,
+      "size": 4,
+      "kor": "원희"
+    },
+    {
+      "offset": 946,
+      "size": 4,
+      "kor": "원담"
+    },
+    {
+      "offset": 989,
+      "size": 4,
+      "kor": "원상"
+    },
+    {
+      "offset": 1032,
+      "size": 4,
+      "kor": "곽도"
+    },
+    {
+      "offset": 1075,
+      "size": 4,
+      "kor": "안량"
+    },
+    {
+      "offset": 1118,
+      "size": 4,
+      "kor": "고간"
+    },
+    {
+      "offset": 1161,
+      "size": 4,
+      "kor": "고람"
+    },
+    {
+      "offset": 1204,
+      "size": 4,
+      "kor": "초촉"
+    },
+    {
+      "offset": 1247,
+      "size": 4,
+      "kor": "반봉"
+    },
+    {
+      "offset": 1290,
+      "size": 4,
+      "kor": "심배"
+    },
+    {
+      "offset": 1333,
+      "size": 4,
+      "kor": "장익"
+    },
+    {
+      "offset": 1376,
+      "size": 4,
+      "kor": "조수"
+    },
+    {
+      "offset": 1419,
+      "size": 4,
+      "kor": "진궁"
+    },
+    {
+      "offset": 1462,
+      "size": 6,
+      "kor": "하후연"
+    },
+    {
+      "offset": 1505,
+      "size": 6,
+      "kor": "하후돈"
+    },
+    {
+      "offset": 1548,
+      "size": 4,
+      "kor": "조홍"
+    },
+    {
+      "offset": 1591,
+      "size": 4,
+      "kor": "조앙"
+    },
+    {
+      "offset": 1634,
+      "size": 4,
+      "kor": "조인"
+    },
+    {
+      "offset": 1677,
+      "size": 4,
+      "kor": "악진"
+    },
+    {
+      "offset": 1720,
+      "size": 4,
+      "kor": "관우"
+    },
+    {
+      "offset": 1763,
+      "size": 4,
+      "kor": "장비"
+    },
+    {
+      "offset": 1806,
+      "size": 4,
+      "kor": "괴량"
+    },
+    {
+      "offset": 1849,
+      "size": 4,
+      "kor": "원윤"
+    },
+    {
+      "offset": 1892,
+      "size": 4,
+      "kor": "괴월"
+    },
+    {
+      "offset": 1935,
+      "size": 4,
+      "kor": "조순"
+    },
+    {
+      "offset": 1978,
+      "size": 4,
+      "kor": "가후"
+    },
+    {
+      "offset": 2021,
+      "size": 4,
+      "kor": "왕항"
+    },
+    {
+      "offset": 2064,
+      "size": 4,
+      "kor": "한숭"
+    },
+    {
+      "offset": 2107,
+      "size": 4,
+      "kor": "허정"
+    },
+    {
+      "offset": 2150,
+      "size": 4,
+      "kor": "황조"
+    },
+    {
+      "offset": 2193,
+      "size": 4,
+      "kor": "가화"
+    },
+    {
+      "offset": 2236,
+      "size": 4,
+      "kor": "여포"
+    },
+    {
+      "offset": 2279,
+      "size": 4,
+      "kor": "우번"
+    },
+    {
+      "offset": 2322,
+      "size": 4,
+      "kor": "정보"
+    },
+    {
+      "offset": 2365,
+      "size": 4,
+      "kor": "손책"
+    },
+    {
+      "offset": 2408,
+      "size": 4,
+      "kor": "황개"
+    },
+    {
+      "offset": 2451,
+      "size": 4,
+      "kor": "한수"
+    },
+    {
+      "offset": 2494,
+      "size": 4,
+      "kor": "한당"
+    },
+    {
+      "offset": 2537,
+      "size": 4,
+      "kor": "감택"
+    },
+    {
+      "offset": 2580,
+      "size": 4,
+      "kor": "기령"
+    },
+    {
+      "offset": 2623,
+      "size": 4,
+      "kor": "채모"
+    },
+    {
+      "offset": 2666,
+      "size": 4,
+      "kor": "엄안"
+    },
+    {
+      "offset": 2709,
+      "size": 4,
+      "kor": "주치"
+    },
+    {
+      "offset": 2752,
+      "size": 4,
+      "kor": "한섬"
+    },
+    {
+      "offset": 2795,
+      "size": 4,
+      "kor": "송충"
+    },
+    {
+      "offset": 2838,
+      "size": 4,
+      "kor": "신평"
+    },
+    {
+      "offset": 2881,
+      "size": 4,
+      "kor": "장자"
+    },
+    {
+      "offset": 2924,
+      "size": 4,
+      "kor": "황권"
+    },
+    {
+      "offset": 2967,
+      "size": 4,
+      "kor": "후선"
+    },
+    {
+      "offset": 3010,
+      "size": 4,
+      "kor": "등의"
+    },
+    {
+      "offset": 3053,
+      "size": 4,
+      "kor": "문빙"
+    },
+    {
+      "offset": 3096,
+      "size": 4,
+      "kor": "고정"
+    },
+    {
+      "offset": 3139,
+      "size": 4,
+      "kor": "이엄"
+    },
+    {
+      "offset": 3182,
+      "size": 4,
+      "kor": "오란"
+    },
+    {
+      "offset": 3225,
+      "size": 4,
+      "kor": "제훈"
+    },
+    {
+      "offset": 3268,
+      "size": 4,
+      "kor": "유반"
+    },
+    {
+      "offset": 3311,
+      "size": 4,
+      "kor": "화웅"
+    },
+    {
+      "offset": 3354,
+      "size": 4,
+      "kor": "주연"
+    },
+    {
+      "offset": 3397,
+      "size": 4,
+      "kor": "정봉"
+    },
+    {
+      "offset": 3440,
+      "size": 4,
+      "kor": "주령"
+    },
+    {
+      "offset": 3483,
+      "size": 4,
+      "kor": "종요"
+    },
+    {
+      "offset": 3526,
+      "size": 4,
+      "kor": "곽사"
+    },
+    {
+      "offset": 3569,
+      "size": 4,
+      "kor": "낙취"
+    },
+    {
+      "offset": 3612,
+      "size": 4,
+      "kor": "정은"
+    },
+    {
+      "offset": 3655,
+      "size": 4,
+      "kor": "장남"
+    },
+    {
+      "offset": 3698,
+      "size": 4,
+      "kor": "여공"
+    },
+    {
+      "offset": 3741,
+      "size": 4,
+      "kor": "조표"
+    },
+    {
+      "offset": 3784,
+      "size": 4,
+      "kor": "손건"
+    },
+    {
+      "offset": 3827,
+      "size": 6,
+      "kor": "태사자"
+    },
+    {
+      "offset": 3870,
+      "size": 4,
+      "kor": "장영"
+    },
+    {
+      "offset": 3913,
+      "size": 4,
+      "kor": "장훈"
+    },
+    {
+      "offset": 3956,
+      "size": 4,
+      "kor": "진운"
+    },
+    {
+      "offset": 3999,
+      "size": 4,
+      "kor": "조잠"
+    },
+    {
+      "offset": 4042,
+      "size": 4,
+      "kor": "오의"
+    },
+    {
+      "offset": 4085,
+      "size": 4,
+      "kor": "이유"
+    },
+    {
+      "offset": 4128,
+      "size": 4,
+      "kor": "장임"
+    },
+    {
+      "offset": 4171,
+      "size": 4,
+      "kor": "마연"
+    },
+    {
+      "offset": 4214,
+      "size": 4,
+      "kor": "조범"
+    },
+    {
+      "offset": 4257,
+      "size": 6,
+      "kor": "하후은"
+    },
+    {
+      "offset": 4300,
+      "size": 4,
+      "kor": "문추"
+    },
+    {
+      "offset": 4343,
+      "size": 4,
+      "kor": "진등"
+    },
+    {
+      "offset": 4386,
+      "size": 4,
+      "kor": "진무"
+    },
+    {
+      "offset": 4429,
+      "size": 4,
+      "kor": "진란"
+    },
+    {
+      "offset": 4472,
+      "size": 4,
+      "kor": "성의"
+    },
+    {
+      "offset": 4515,
+      "size": 4,
+      "kor": "주태"
+    },
+    {
+      "offset": 4558,
+      "size": 4,
+      "kor": "봉기"
+    },
+    {
+      "offset": 4601,
+      "size": 4,
+      "kor": "동화"
+    },
+    {
+      "offset": 4644,
+      "size": 4,
+      "kor": "이적"
+    },
+    {
+      "offset": 4687,
+      "size": 4,
+      "kor": "동민"
+    },
+    {
+      "offset": 4730,
+      "size": 4,
+      "kor": "이숙"
+    },
+    {
+      "offset": 4773,
+      "size": 4,
+      "kor": "장합"
+    },
+    {
+      "offset": 4816,
+      "size": 4,
+      "kor": "허유"
+    },
+    {
+      "offset": 4859,
+      "size": 4,
+      "kor": "미축"
+    },
+    {
+      "offset": 4902,
+      "size": 4,
+      "kor": "미방"
+    },
+    {
+      "offset": 4945,
+      "size": 6,
+      "kor": "무안국"
+    },
+    {
+      "offset": 4988,
+      "size": 6,
+      "kor": "장의교"
+    },
+    {
+      "offset": 5031,
+      "size": 4,
+      "kor": "번주"
+    },
+    {
+      "offset": 5074,
+      "size": 4,
+      "kor": "모개"
+    },
+    {
+      "offset": 5117,
+      "size": 4,
+      "kor": "맹달"
+    },
+    {
+      "offset": 5160,
+      "size": 4,
+      "kor": "양회"
+    },
+    {
+      "offset": 5203,
+      "size": 4,
+      "kor": "유귀"
+    },
+    {
+      "offset": 5246,
+      "size": 4,
+      "kor": "뇌동"
+    },
+    {
+      "offset": 5289,
+      "size": 4,
+      "kor": "유대"
+    },
+    {
+      "offset": 5332,
+      "size": 4,
+      "kor": "왕찬"
+    },
+    {
+      "offset": 5375,
+      "size": 4,
+      "kor": "양강"
+    },
+    {
+      "offset": 5418,
+      "size": 4,
+      "kor": "능조"
+    },
+    {
+      "offset": 5461,
+      "size": 4,
+      "kor": "여개"
+    },
+    {
+      "offset": 5504,
+      "size": 4,
+      "kor": "여의"
+    },
+    {
+      "offset": 5547,
+      "size": 4,
+      "kor": "호진"
+    },
+    {
+      "offset": 5590,
+      "size": 4,
+      "kor": "이이"
+    },
+    {
+      "offset": 5633,
+      "size": 4,
+      "kor": "냉포"
+    },
+    {
+      "offset": 5676,
+      "size": 4,
+      "kor": "왕광"
+    },
+    {
+      "offset": 5719,
+      "size": 4,
+      "kor": "화흠"
+    },
+    {
+      "offset": 5762,
+      "size": 4,
+      "kor": "이통"
+    },
+    {
+      "offset": 5805,
+      "size": 4,
+      "kor": "이전"
+    },
+    {
+      "offset": 5848,
+      "size": 4,
+      "kor": "이풍"
+    },
+    {
+      "offset": 5891,
+      "size": 4,
+      "kor": "뇌박"
+    },
+    {
+      "offset": 5934,
+      "size": 4,
+      "kor": "장막"
+    },
+    {
+      "offset": 5977,
+      "size": 4,
+      "kor": "장윤"
+    },
+    {
+      "offset": 6020,
+      "size": 4,
+      "kor": "여건"
+    },
+    {
+      "offset": 6063,
+      "size": 4,
+      "kor": "양추"
+    },
+    {
+      "offset": 6106,
+      "size": 4,
+      "kor": "이규"
+    },
+    {
+      "offset": 6149,
+      "size": 4,
+      "kor": "왕루"
+    },
+    {
+      "offset": 6192,
+      "size": 4,
+      "kor": "장제"
+    },
+    {
+      "offset": 6235,
+      "size": 4,
+      "kor": "송헌"
+    },
+    {
+      "offset": 6278,
+      "size": 4,
+      "kor": "장수"
+    },
+    {
+      "offset": 6321,
+      "size": 4,
+      "kor": "여범"
+    },
+    {
+      "offset": 6364,
+      "size": 4,
+      "kor": "황완"
+    },
+    {
+      "offset": 6407,
+      "size": 4,
+      "kor": "여견"
+    }
+  ],
+  [
+    {
+      "offset": 0,
+      "size": 4,
+      "kor": "조조"
+    },
+    {
+      "offset": 43,
+      "size": 4,
+      "kor": "유비"
+    },
+    {
+      "offset": 86,
+      "size": 4,
+      "kor": "손책"
+    },
+    {
+      "offset": 129,
+      "size": 4,
+      "kor": "원소"
+    },
+    {
+      "offset": 172,
+      "size": 4,
+      "kor": "원술"
+    },
+    {
+      "offset": 215,
+      "size": 4,
+      "kor": "마등"
+    },
+    {
+      "offset": 258,
+      "size": 4,
+      "kor": "유장"
+    },
+    {
+      "offset": 301,
+      "size": 4,
+      "kor": "유표"
+    },
+    {
+      "offset": 344,
+      "size": 4,
+      "kor": "여포"
+    },
+    {
+      "offset": 387,
+      "size": 6,
+      "kor": "공손찬"
+    },
+    {
+      "offset": 430,
+      "size": 4,
+      "kor": "이각"
+    },
+    {
+      "offset": 473,
+      "size": 4,
+      "kor": "장로"
+    },
+    {
+      "offset": 516,
+      "size": 4,
+      "kor": "공융"
+    },
+    {
+      "offset": 559,
+      "size": 4,
+      "kor": "양봉"
+    },
+    {
+      "offset": 602,
+      "size": 4,
+      "kor": "유엽"
+    },
+    {
+      "offset": 645,
+      "size": 4,
+      "kor": "원담"
+    },
+    {
+      "offset": 688,
+      "size": 6,
+      "kor": "하후돈"
+    },
+    {
+      "offset": 731,
+      "size": 4,
+      "kor": "악취"
+    },
+    {
+      "offset": 774,
+      "size": 4,
+      "kor": "괴월"
+    },
+    {
+      "offset": 817,
+      "size": 4,
+      "kor": "엄안"
+    },
+    {
+      "offset": 860,
+      "size": 4,
+      "kor": "황권"
+    },
+    {
+      "offset": 903,
+      "size": 4,
+      "kor": "괴량"
+    },
+    {
+      "offset": 946,
+      "size": 4,
+      "kor": "원윤"
+    },
+    {
+      "offset": 989,
+      "size": 4,
+      "kor": "장송"
+    },
+    {
+      "offset": 1032,
+      "size": 4,
+      "kor": "조인"
+    },
+    {
+      "offset": 1075,
+      "size": 4,
+      "kor": "전풍"
+    },
+    {
+      "offset": 1118,
+      "size": 4,
+      "kor": "저수"
+    },
+    {
+      "offset": 1161,
+      "size": 4,
+      "kor": "원상"
+    },
+    {
+      "offset": 1204,
+      "size": 4,
+      "kor": "염포"
+    },
+    {
+      "offset": 1247,
+      "size": 4,
+      "kor": "진등"
+    },
+    {
+      "offset": 1290,
+      "size": 4,
+      "kor": "진궁"
+    },
+    {
+      "offset": 1333,
+      "size": 4,
+      "kor": "순욱"
+    },
+    {
+      "offset": 1376,
+      "size": 4,
+      "kor": "왕항"
+    },
+    {
+      "offset": 1419,
+      "size": 4,
+      "kor": "송충"
+    },
+    {
+      "offset": 1462,
+      "size": 6,
+      "kor": "무안국"
+    },
+    {
+      "offset": 1505,
+      "size": 4,
+      "kor": "순유"
+    },
+    {
+      "offset": 1548,
+      "size": 4,
+      "kor": "장료"
+    },
+    {
+      "offset": 1591,
+      "size": 4,
+      "kor": "미방"
+    },
+    {
+      "offset": 1634,
+      "size": 4,
+      "kor": "오의"
+    },
+    {
+      "offset": 1677,
+      "size": 4,
+      "kor": "한숭"
+    },
+    {
+      "offset": 1720,
+      "size": 4,
+      "kor": "가화"
+    },
+    {
+      "offset": 1763,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 1806,
+      "size": 4,
+      "kor": "주유"
+    },
+    {
+      "offset": 1849,
+      "size": 4,
+      "kor": "가후"
+    },
+    {
+      "offset": 1892,
+      "size": 4,
+      "kor": "여몽"
+    },
+    {
+      "offset": 1935,
+      "size": 4,
+      "kor": "곽가"
+    },
+    {
+      "offset": 1978,
+      "size": 4,
+      "kor": "곽사"
+    },
+    {
+      "offset": 2021,
+      "size": 4,
+      "kor": "황조"
+    },
+    {
+      "offset": 2064,
+      "size": 4,
+      "kor": "서황"
+    },
+    {
+      "offset": 2107,
+      "size": 4,
+      "kor": "곽도"
+    },
+    {
+      "offset": 2150,
+      "size": 4,
+      "kor": "왕개"
+    },
+    {
+      "offset": 2193,
+      "size": 4,
+      "kor": "장임"
+    },
+    {
+      "offset": 2236,
+      "size": 4,
+      "kor": "곽회"
+    },
+    {
+      "offset": 2279,
+      "size": 6,
+      "kor": "하후무"
+    },
+    {
+      "offset": 2322,
+      "size": 6,
+      "kor": "하후은"
+    },
+    {
+      "offset": 2365,
+      "size": 6,
+      "kor": "하후연"
+    },
+    {
+      "offset": 2408,
+      "size": 4,
+      "kor": "조홍"
+    },
+    {
+      "offset": 2451,
+      "size": 4,
+      "kor": "조앙"
+    },
+    {
+      "offset": 2494,
+      "size": 4,
+      "kor": "정욱"
+    },
+    {
+      "offset": 2537,
+      "size": 4,
+      "kor": "손건"
+    },
+    {
+      "offset": 2580,
+      "size": 4,
+      "kor": "전위"
+    },
+    {
+      "offset": 2623,
+      "size": 4,
+      "kor": "여범"
+    },
+    {
+      "offset": 2666,
+      "size": 4,
+      "kor": "한계"
+    },
+    {
+      "offset": 2709,
+      "size": 4,
+      "kor": "장윤"
+    },
+    {
+      "offset": 2752,
+      "size": 4,
+      "kor": "문빙"
+    },
+    {
+      "offset": 2795,
+      "size": 4,
+      "kor": "조표"
+    },
+    {
+      "offset": 2838,
+      "size": 4,
+      "kor": "마초"
+    },
+    {
+      "offset": 2881,
+      "size": 4,
+      "kor": "채모"
+    },
+    {
+      "offset": 2924,
+      "size": 4,
+      "kor": "감택"
+    },
+    {
+      "offset": 2967,
+      "size": 4,
+      "kor": "한당"
+    },
+    {
+      "offset": 3010,
+      "size": 4,
+      "kor": "유반"
+    },
+    {
+      "offset": 3053,
+      "size": 4,
+      "kor": "여의"
+    },
+    {
+      "offset": 3096,
+      "size": 4,
+      "kor": "미축"
+    },
+    {
+      "offset": 3139,
+      "size": 4,
+      "kor": "만총"
+    },
+    {
+      "offset": 3182,
+      "size": 4,
+      "kor": "진교"
+    },
+    {
+      "offset": 3225,
+      "size": 4,
+      "kor": "안량"
+    },
+    {
+      "offset": 3268,
+      "size": 4,
+      "kor": "등의"
+    },
+    {
+      "offset": 3311,
+      "size": 4,
+      "kor": "학맹"
+    },
+    {
+      "offset": 3354,
+      "size": 4,
+      "kor": "오란"
+    },
+    {
+      "offset": 3397,
+      "size": 4,
+      "kor": "신평"
+    },
+    {
+      "offset": 3440,
+      "size": 4,
+      "kor": "한섬"
+    },
+    {
+      "offset": 3483,
+      "size": 4,
+      "kor": "위연"
+    },
+    {
+      "offset": 3526,
+      "size": 4,
+      "kor": "고간"
+    },
+    {
+      "offset": 3569,
+      "size": 4,
+      "kor": "허사"
+    },
+    {
+      "offset": 3612,
+      "size": 4,
+      "kor": "황개"
+    },
+    {
+      "offset": 3655,
+      "size": 4,
+      "kor": "주태"
+    },
+    {
+      "offset": 3698,
+      "size": 4,
+      "kor": "주치"
+    },
+    {
+      "offset": 3741,
+      "size": 4,
+      "kor": "장제"
+    },
+    {
+      "offset": 3784,
+      "size": 4,
+      "kor": "고람"
+    },
+    {
+      "offset": 3827,
+      "size": 4,
+      "kor": "정보"
+    },
+    {
+      "offset": 3870,
+      "size": 4,
+      "kor": "위속"
+    },
+    {
+      "offset": 3913,
+      "size": 4,
+      "kor": "후성"
+    },
+    {
+      "offset": 3956,
+      "size": 4,
+      "kor": "마철"
+    },
+    {
+      "offset": 3999,
+      "size": 4,
+      "kor": "고정"
+    },
+    {
+      "offset": 4042,
+      "size": 4,
+      "kor": "고패"
+    },
+    {
+      "offset": 4085,
+      "size": 4,
+      "kor": "초촉"
+    },
+    {
+      "offset": 4128,
+      "size": 4,
+      "kor": "동화"
+    },
+    {
+      "offset": 4171,
+      "size": 4,
+      "kor": "유귀"
+    },
+    {
+      "offset": 4214,
+      "size": 4,
+      "kor": "뇌동"
+    },
+    {
+      "offset": 4257,
+      "size": 4,
+      "kor": "이적"
+    },
+    {
+      "offset": 4300,
+      "size": 4,
+      "kor": "제훈"
+    },
+    {
+      "offset": 4343,
+      "size": 4,
+      "kor": "왕위"
+    },
+    {
+      "offset": 4386,
+      "size": 4,
+      "kor": "곽준"
+    },
+    {
+      "offset": 4429,
+      "size": 4,
+      "kor": "정봉"
+    },
+    {
+      "offset": 4472,
+      "size": 4,
+      "kor": "화흠"
+    },
+    {
+      "offset": 4515,
+      "size": 4,
+      "kor": "주연"
+    },
+    {
+      "offset": 4558,
+      "size": 4,
+      "kor": "여공"
+    },
+    {
+      "offset": 4601,
+      "size": 4,
+      "kor": "우번"
+    },
+    {
+      "offset": 4644,
+      "size": 4,
+      "kor": "심영"
+    },
+    {
+      "offset": 4687,
+      "size": 4,
+      "kor": "이전"
+    },
+    {
+      "offset": 4730,
+      "size": 4,
+      "kor": "진란"
+    },
+    {
+      "offset": 4773,
+      "size": 4,
+      "kor": "왕광"
+    },
+    {
+      "offset": 4816,
+      "size": 4,
+      "kor": "황완"
+    },
+    {
+      "offset": 4859,
+      "size": 4,
+      "kor": "장익"
+    },
+    {
+      "offset": 4902,
+      "size": 4,
+      "kor": "장합"
+    },
+    {
+      "offset": 4945,
+      "size": 4,
+      "kor": "심배"
+    },
+    {
+      "offset": 4988,
+      "size": 4,
+      "kor": "뇌박"
+    },
+    {
+      "offset": 5031,
+      "size": 4,
+      "kor": "기령"
+    },
+    {
+      "offset": 5074,
+      "size": 4,
+      "kor": "후선"
+    },
+    {
+      "offset": 5117,
+      "size": 4,
+      "kor": "주창"
+    },
+    {
+      "offset": 5160,
+      "size": 4,
+      "kor": "송헌"
+    },
+    {
+      "offset": 5203,
+      "size": 4,
+      "kor": "조순"
+    },
+    {
+      "offset": 5246,
+      "size": 4,
+      "kor": "진희"
+    },
+    {
+      "offset": 5289,
+      "size": 4,
+      "kor": "관우"
+    },
+    {
+      "offset": 5332,
+      "size": 6,
+      "kor": "순우경"
+    },
+    {
+      "offset": 5375,
+      "size": 4,
+      "kor": "장비"
+    },
+    {
+      "offset": 5418,
+      "size": 6,
+      "kor": "태사자"
+    },
+    {
+      "offset": 5461,
+      "size": 4,
+      "kor": "왕찬"
+    },
+    {
+      "offset": 5504,
+      "size": 4,
+      "kor": "조운"
+    },
+    {
+      "offset": 5547,
+      "size": 4,
+      "kor": "장영"
+    },
+    {
+      "offset": 5590,
+      "size": 4,
+      "kor": "장형"
+    },
+    {
+      "offset": 5633,
+      "size": 4,
+      "kor": "성의"
+    },
+    {
+      "offset": 5676,
+      "size": 4,
+      "kor": "양강"
+    },
+    {
+      "offset": 5719,
+      "size": 4,
+      "kor": "냉포"
+    },
+    {
+      "offset": 5762,
+      "size": 4,
+      "kor": "장훈"
+    },
+    {
+      "offset": 5805,
+      "size": 4,
+      "kor": "원희"
+    },
+    {
+      "offset": 5848,
+      "size": 4,
+      "kor": "공지"
+    },
+    {
+      "offset": 5891,
+      "size": 4,
+      "kor": "왕루"
+    },
+    {
+      "offset": 5934,
+      "size": 4,
+      "kor": "진진"
+    },
+    {
+      "offset": 5977,
+      "size": 4,
+      "kor": "조범"
+    },
+    {
+      "offset": 6020,
+      "size": 4,
+      "kor": "장막"
+    },
+    {
+      "offset": 6063,
+      "size": 4,
+      "kor": "왕충"
+    },
+    {
+      "offset": 6106,
+      "size": 4,
+      "kor": "악진"
+    },
+    {
+      "offset": 6149,
+      "size": 4,
+      "kor": "고순"
+    },
+    {
+      "offset": 6192,
+      "size": 4,
+      "kor": "허정"
+    },
+    {
+      "offset": 6235,
+      "size": 4,
+      "kor": "마연"
+    },
+    {
+      "offset": 6278,
+      "size": 4,
+      "kor": "간옹"
+    },
+    {
+      "offset": 6321,
+      "size": 4,
+      "kor": "진무"
+    },
+    {
+      "offset": 6364,
+      "size": 4,
+      "kor": "장횡"
+    },
+    {
+      "offset": 6407,
+      "size": 4,
+      "kor": "문추"
+    },
+    {
+      "offset": 6450,
+      "size": 4,
+      "kor": "이회"
+    },
+    {
+      "offset": 6493,
+      "size": 4,
+      "kor": "서서"
+    },
+    {
+      "offset": 6536,
+      "size": 4,
+      "kor": "주령"
+    },
+    {
+      "offset": 6579,
+      "size": 6,
+      "kor": "장의거"
+    },
+    {
+      "offset": 6622,
+      "size": 4,
+      "kor": "정은"
+    },
+    {
+      "offset": 6665,
+      "size": 4,
+      "kor": "마대"
+    },
+    {
+      "offset": 6708,
+      "size": 4,
+      "kor": "방덕"
+    },
+    {
+      "offset": 6751,
+      "size": 4,
+      "kor": "양흥"
+    },
+    {
+      "offset": 6794,
+      "size": 4,
+      "kor": "등현"
+    },
+    {
+      "offset": 6837,
+      "size": 4,
+      "kor": "비시"
+    },
+    {
+      "offset": 6880,
+      "size": 4,
+      "kor": "종요"
+    },
+    {
+      "offset": 6923,
+      "size": 4,
+      "kor": "왕수"
+    },
+    {
+      "offset": 6966,
+      "size": 4,
+      "kor": "봉기"
+    },
+    {
+      "offset": 7009,
+      "size": 4,
+      "kor": "한호"
+    },
+    {
+      "offset": 7052,
+      "size": 4,
+      "kor": "허유"
+    },
+    {
+      "offset": 7095,
+      "size": 4,
+      "kor": "양회"
+    },
+    {
+      "offset": 7138,
+      "size": 4,
+      "kor": "마완"
+    },
+    {
+      "offset": 7181,
+      "size": 4,
+      "kor": "부간"
+    },
+    {
+      "offset": 7224,
+      "size": 4,
+      "kor": "맹달"
+    },
+    {
+      "offset": 7267,
+      "size": 4,
+      "kor": "양앙"
+    },
+    {
+      "offset": 7310,
+      "size": 4,
+      "kor": "한수"
+    },
+    {
+      "offset": 7353,
+      "size": 4,
+      "kor": "두습"
+    },
+    {
+      "offset": 7396,
+      "size": 4,
+      "kor": "양평"
+    },
+    {
+      "offset": 7439,
+      "size": 4,
+      "kor": "양송"
+    },
+    {
+      "offset": 7482,
+      "size": 4,
+      "kor": "양임"
+    },
+    {
+      "offset": 7525,
+      "size": 4,
+      "kor": "양백"
+    },
+    {
+      "offset": 7568,
+      "size": 4,
+      "kor": "감녕"
+    },
+    {
+      "offset": 7611,
+      "size": 4,
+      "kor": "법정"
+    },
+    {
+      "offset": 7654,
+      "size": 4,
+      "kor": "방통"
+    },
+    {
+      "offset": 7697,
+      "size": 4,
+      "kor": "장수"
+    },
+    {
+      "offset": 7740,
+      "size": 4,
+      "kor": "유도"
+    },
+    {
+      "offset": 7783,
+      "size": 4,
+      "kor": "동형"
+    },
+    {
+      "offset": 7826,
+      "size": 4,
+      "kor": "양추"
+    },
+    {
+      "offset": 7869,
+      "size": 4,
+      "kor": "신비"
+    },
+    {
+      "offset": 7912,
+      "size": 4,
+      "kor": "능조"
+    },
+    {
+      "offset": 7955,
+      "size": 4,
+      "kor": "여개"
+    },
+    {
+      "offset": 7998,
+      "size": 4,
+      "kor": "모개"
+    },
+    {
+      "offset": 8041,
+      "size": 4,
+      "kor": "유엽"
+    },
+    {
+      "offset": 8084,
+      "size": 4,
+      "kor": "번장"
+    },
+    {
+      "offset": 8127,
+      "size": 4,
+      "kor": "고옹"
+    },
+    {
+      "offset": 8170,
+      "size": 4,
+      "kor": "유파"
+    },
+    {
+      "offset": 8213,
+      "size": 4,
+      "kor": "송겸"
+    },
+    {
+      "offset": 8256,
+      "size": 4,
+      "kor": "이규"
+    },
+    {
+      "offset": 8299,
+      "size": 4,
+      "kor": "이엄"
+    },
+    {
+      "offset": 8342,
+      "size": 4,
+      "kor": "이담"
+    },
+    {
+      "offset": 8385,
+      "size": 4,
+      "kor": "여건"
+    },
+    {
+      "offset": 8428,
+      "size": 4,
+      "kor": "여견"
+    },
+    {
+      "offset": 8471,
+      "size": 4,
+      "kor": "이풍"
+    },
+    {
+      "offset": 8514,
+      "size": 4,
+      "kor": "여상"
+    },
+    {
+      "offset": 8557,
+      "size": 4,
+      "kor": "장남"
+    },
+    {
+      "offset": 8600,
+      "size": 4,
+      "kor": "요화"
+    },
+    {
+      "offset": 8643,
+      "size": 4,
+      "kor": "이통"
+    },
+    {
+      "offset": 8686,
+      "size": 4,
+      "kor": "이이"
+    }
+  ],
+  [
+    {
+      "offset": 0,
+      "size": 4,
+      "kor": "조조"
+    },
+    {
+      "offset": 43,
+      "size": 4,
+      "kor": "유비"
+    },
+    {
+      "offset": 86,
+      "size": 4,
+      "kor": "손권"
+    },
+    {
+      "offset": 129,
+      "size": 4,
+      "kor": "원소"
+    },
+    {
+      "offset": 172,
+      "size": 4,
+      "kor": "유장"
+    },
+    {
+      "offset": 215,
+      "size": 4,
+      "kor": "마등"
+    },
+    {
+      "offset": 258,
+      "size": 4,
+      "kor": "장로"
+    },
+    {
+      "offset": 301,
+      "size": 4,
+      "kor": "유표"
+    },
+    {
+      "offset": 344,
+      "size": 4,
+      "kor": "심배"
+    },
+    {
+      "offset": 387,
+      "size": 4,
+      "kor": "원희"
+    },
+    {
+      "offset": 430,
+      "size": 6,
+      "kor": "장의거"
+    },
+    {
+      "offset": 473,
+      "size": 4,
+      "kor": "진진"
+    },
+    {
+      "offset": 516,
+      "size": 4,
+      "kor": "원담"
+    },
+    {
+      "offset": 559,
+      "size": 4,
+      "kor": "장료"
+    },
+    {
+      "offset": 602,
+      "size": 6,
+      "kor": "하후돈"
+    },
+    {
+      "offset": 645,
+      "size": 4,
+      "kor": "마휴"
+    },
+    {
+      "offset": 688,
+      "size": 6,
+      "kor": "하후연"
+    },
+    {
+      "offset": 731,
+      "size": 4,
+      "kor": "조홍"
+    },
+    {
+      "offset": 774,
+      "size": 4,
+      "kor": "유종"
+    },
+    {
+      "offset": 817,
+      "size": 4,
+      "kor": "조범"
+    },
+    {
+      "offset": 860,
+      "size": 4,
+      "kor": "유도"
+    },
+    {
+      "offset": 903,
+      "size": 4,
+      "kor": "황개"
+    },
+    {
+      "offset": 946,
+      "size": 4,
+      "kor": "정봉"
+    },
+    {
+      "offset": 989,
+      "size": 4,
+      "kor": "노숙"
+    },
+    {
+      "offset": 1032,
+      "size": 4,
+      "kor": "엄안"
+    },
+    {
+      "offset": 1075,
+      "size": 4,
+      "kor": "동화"
+    },
+    {
+      "offset": 1118,
+      "size": 4,
+      "kor": "뇌동"
+    },
+    {
+      "offset": 1161,
+      "size": 4,
+      "kor": "장송"
+    },
+    {
+      "offset": 1204,
+      "size": 4,
+      "kor": "곽도"
+    },
+    {
+      "offset": 1247,
+      "size": 4,
+      "kor": "전풍"
+    },
+    {
+      "offset": 1290,
+      "size": 4,
+      "kor": "저수"
+    },
+    {
+      "offset": 1333,
+      "size": 4,
+      "kor": "염포"
+    },
+    {
+      "offset": 1376,
+      "size": 4,
+      "kor": "괴량"
+    },
+    {
+      "offset": 1419,
+      "size": 4,
+      "kor": "순유"
+    },
+    {
+      "offset": 1462,
+      "size": 4,
+      "kor": "정욱"
+    },
+    {
+      "offset": 1505,
+      "size": 4,
+      "kor": "왕항"
+    },
+    {
+      "offset": 1548,
+      "size": 4,
+      "kor": "장윤"
+    },
+    {
+      "offset": 1591,
+      "size": 4,
+      "kor": "여견"
+    },
+    {
+      "offset": 1634,
+      "size": 4,
+      "kor": "진교"
+    },
+    {
+      "offset": 1677,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 1720,
+      "size": 4,
+      "kor": "비시"
+    },
+    {
+      "offset": 1763,
+      "size": 4,
+      "kor": "황권"
+    },
+    {
+      "offset": 1806,
+      "size": 4,
+      "kor": "왕루"
+    },
+    {
+      "offset": 1849,
+      "size": 4,
+      "kor": "괴월"
+    },
+    {
+      "offset": 1892,
+      "size": 4,
+      "kor": "유기"
+    },
+    {
+      "offset": 1935,
+      "size": 4,
+      "kor": "감택"
+    },
+    {
+      "offset": 1978,
+      "size": 4,
+      "kor": "항계"
+    },
+    {
+      "offset": 2021,
+      "size": 4,
+      "kor": "진희"
+    },
+    {
+      "offset": 2064,
+      "size": 4,
+      "kor": "위속"
+    },
+    {
+      "offset": 2107,
+      "size": 4,
+      "kor": "주유"
+    },
+    {
+      "offset": 2150,
+      "size": 6,
+      "kor": "사마의"
+    },
+    {
+      "offset": 2193,
+      "size": 4,
+      "kor": "관우"
+    },
+    {
+      "offset": 2236,
+      "size": 4,
+      "kor": "곽가"
+    },
+    {
+      "offset": 2279,
+      "size": 4,
+      "kor": "장남"
+    },
+    {
+      "offset": 2322,
+      "size": 4,
+      "kor": "오의"
+    },
+    {
+      "offset": 2365,
+      "size": 6,
+      "kor": "하후무"
+    },
+    {
+      "offset": 2408,
+      "size": 4,
+      "kor": "순욱"
+    },
+    {
+      "offset": 2451,
+      "size": 4,
+      "kor": "장비"
+    },
+    {
+      "offset": 2494,
+      "size": 4,
+      "kor": "후성"
+    },
+    {
+      "offset": 2537,
+      "size": 4,
+      "kor": "유반"
+    },
+    {
+      "offset": 2580,
+      "size": 4,
+      "kor": "조운"
+    },
+    {
+      "offset": 2623,
+      "size": 4,
+      "kor": "왕찬"
+    },
+    {
+      "offset": 2666,
+      "size": 4,
+      "kor": "손건"
+    },
+    {
+      "offset": 2709,
+      "size": 4,
+      "kor": "마초"
+    },
+    {
+      "offset": 2752,
+      "size": 4,
+      "kor": "한숭"
+    },
+    {
+      "offset": 2795,
+      "size": 4,
+      "kor": "능조"
+    },
+    {
+      "offset": 2838,
+      "size": 4,
+      "kor": "여몽"
+    },
+    {
+      "offset": 2881,
+      "size": 6,
+      "kor": "태사자"
+    },
+    {
+      "offset": 2924,
+      "size": 4,
+      "kor": "미방"
+    },
+    {
+      "offset": 2967,
+      "size": 4,
+      "kor": "미축"
+    },
+    {
+      "offset": 3010,
+      "size": 4,
+      "kor": "서황"
+    },
+    {
+      "offset": 3053,
+      "size": 4,
+      "kor": "황조"
+    },
+    {
+      "offset": 3096,
+      "size": 4,
+      "kor": "오란"
+    },
+    {
+      "offset": 3139,
+      "size": 4,
+      "kor": "원상"
+    },
+    {
+      "offset": 3182,
+      "size": 4,
+      "kor": "채모"
+    },
+    {
+      "offset": 3225,
+      "size": 4,
+      "kor": "동습"
+    },
+    {
+      "offset": 3268,
+      "size": 4,
+      "kor": "주령"
+    },
+    {
+      "offset": 3311,
+      "size": 4,
+      "kor": "손유"
+    },
+    {
+      "offset": 3354,
+      "size": 4,
+      "kor": "송충"
+    },
+    {
+      "offset": 3397,
+      "size": 4,
+      "kor": "능통"
+    },
+    {
+      "offset": 3440,
+      "size": 4,
+      "kor": "장소"
+    },
+    {
+      "offset": 3483,
+      "size": 4,
+      "kor": "고간"
+    },
+    {
+      "offset": 3526,
+      "size": 4,
+      "kor": "육적"
+    },
+    {
+      "offset": 3569,
+      "size": 4,
+      "kor": "악진"
+    },
+    {
+      "offset": 3612,
+      "size": 4,
+      "kor": "동형"
+    },
+    {
+      "offset": 3655,
+      "size": 4,
+      "kor": "마철"
+    },
+    {
+      "offset": 3698,
+      "size": 4,
+      "kor": "문빙"
+    },
+    {
+      "offset": 3741,
+      "size": 4,
+      "kor": "한현"
+    },
+    {
+      "offset": 3784,
+      "size": 4,
+      "kor": "고정"
+    },
+    {
+      "offset": 3827,
+      "size": 4,
+      "kor": "고패"
+    },
+    {
+      "offset": 3870,
+      "size": 4,
+      "kor": "공융"
+    },
+    {
+      "offset": 3913,
+      "size": 4,
+      "kor": "장합"
+    },
+    {
+      "offset": 3956,
+      "size": 4,
+      "kor": "유귀"
+    },
+    {
+      "offset": 3999,
+      "size": 4,
+      "kor": "장임"
+    },
+    {
+      "offset": 4042,
+      "size": 4,
+      "kor": "이규"
+    },
+    {
+      "offset": 4085,
+      "size": 4,
+      "kor": "등의"
+    },
+    {
+      "offset": 4128,
+      "size": 4,
+      "kor": "허저"
+    },
+    {
+      "offset": 4171,
+      "size": 4,
+      "kor": "학소"
+    },
+    {
+      "offset": 4214,
+      "size": 6,
+      "kor": "하후은"
+    },
+    {
+      "offset": 4257,
+      "size": 4,
+      "kor": "손항"
+    },
+    {
+      "offset": 4300,
+      "size": 6,
+      "kor": "하후패"
+    },
+    {
+      "offset": 4343,
+      "size": 4,
+      "kor": "주태"
+    },
+    {
+      "offset": 4386,
+      "size": 4,
+      "kor": "한당"
+    },
+    {
+      "offset": 4429,
+      "size": 4,
+      "kor": "우번"
+    },
+    {
+      "offset": 4472,
+      "size": 4,
+      "kor": "육손"
+    },
+    {
+      "offset": 4515,
+      "size": 4,
+      "kor": "고옹"
+    },
+    {
+      "offset": 4558,
+      "size": 4,
+      "kor": "여범"
+    },
+    {
+      "offset": 4601,
+      "size": 4,
+      "kor": "조진"
+    },
+    {
+      "offset": 4644,
+      "size": 4,
+      "kor": "초촉"
+    },
+    {
+      "offset": 4687,
+      "size": 4,
+      "kor": "진등"
+    },
+    {
+      "offset": 4730,
+      "size": 4,
+      "kor": "장현"
+    },
+    {
+      "offset": 4773,
+      "size": 4,
+      "kor": "정보"
+    },
+    {
+      "offset": 4816,
+      "size": 4,
+      "kor": "관평"
+    },
+    {
+      "offset": 4859,
+      "size": 4,
+      "kor": "고람"
+    },
+    {
+      "offset": 4902,
+      "size": 4,
+      "kor": "심영"
+    },
+    {
+      "offset": 4945,
+      "size": 4,
+      "kor": "손익"
+    },
+    {
+      "offset": 4988,
+      "size": 4,
+      "kor": "여광"
+    },
+    {
+      "offset": 5031,
+      "size": 4,
+      "kor": "전만"
+    },
+    {
+      "offset": 5074,
+      "size": 4,
+      "kor": "부간"
+    },
+    {
+      "offset": 5117,
+      "size": 4,
+      "kor": "여건"
+    },
+    {
+      "offset": 5160,
+      "size": 4,
+      "kor": "조인"
+    },
+    {
+      "offset": 5203,
+      "size": 4,
+      "kor": "주항"
+    },
+    {
+      "offset": 5246,
+      "size": 4,
+      "kor": "방덕"
+    },
+    {
+      "offset": 5289,
+      "size": 4,
+      "kor": "주연"
+    },
+    {
+      "offset": 5332,
+      "size": 4,
+      "kor": "곽혁"
+    },
+    {
+      "offset": 5375,
+      "size": 4,
+      "kor": "조순"
+    },
+    {
+      "offset": 5418,
+      "size": 4,
+      "kor": "송겸"
+    },
+    {
+      "offset": 5461,
+      "size": 4,
+      "kor": "마연"
+    },
+    {
+      "offset": 5504,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 5547,
+      "size": 4,
+      "kor": "양수"
+    },
+    {
+      "offset": 5590,
+      "size": 4,
+      "kor": "제화"
+    },
+    {
+      "offset": 5633,
+      "size": 4,
+      "kor": "신평"
+    },
+    {
+      "offset": 5676,
+      "size": 4,
+      "kor": "간옹"
+    },
+    {
+      "offset": 5719,
+      "size": 4,
+      "kor": "감녕"
+    },
+    {
+      "offset": 5762,
+      "size": 4,
+      "kor": "엄준"
+    },
+    {
+      "offset": 5805,
+      "size": 4,
+      "kor": "담웅"
+    },
+    {
+      "offset": 5848,
+      "size": 4,
+      "kor": "한호"
+    },
+    {
+      "offset": 5891,
+      "size": 4,
+      "kor": "주창"
+    },
+    {
+      "offset": 5934,
+      "size": 4,
+      "kor": "장영"
+    },
+    {
+      "offset": 5977,
+      "size": 4,
+      "kor": "장형"
+    },
+    {
+      "offset": 6020,
+      "size": 4,
+      "kor": "후선"
+    },
+    {
+      "offset": 6063,
+      "size": 6,
+      "kor": "제갈근"
+    },
+    {
+      "offset": 6106,
+      "size": 4,
+      "kor": "장익"
+    },
+    {
+      "offset": 6149,
+      "size": 4,
+      "kor": "조통"
+    },
+    {
+      "offset": 6192,
+      "size": 6,
+      "kor": "순우경"
+    },
+    {
+      "offset": 6235,
+      "size": 4,
+      "kor": "이통"
+    },
+    {
+      "offset": 6278,
+      "size": 4,
+      "kor": "양홍"
+    },
+    {
+      "offset": 6321,
+      "size": 4,
+      "kor": "여상"
+    },
+    {
+      "offset": 6364,
+      "size": 4,
+      "kor": "여공"
+    },
+    {
+      "offset": 6407,
+      "size": 4,
+      "kor": "두습"
+    },
+    {
+      "offset": 6450,
+      "size": 4,
+      "kor": "이전"
+    },
+    {
+      "offset": 6493,
+      "size": 4,
+      "kor": "양앙"
+    },
+    {
+      "offset": 6536,
+      "size": 4,
+      "kor": "진무"
+    },
+    {
+      "offset": 6579,
+      "size": 4,
+      "kor": "성의"
+    },
+    {
+      "offset": 6622,
+      "size": 4,
+      "kor": "허유"
+    },
+    {
+      "offset": 6665,
+      "size": 4,
+      "kor": "여상"
+    },
+    {
+      "offset": 6708,
+      "size": 4,
+      "kor": "번장"
+    },
+    {
+      "offset": 6751,
+      "size": 4,
+      "kor": "서서"
+    },
+    {
+      "offset": 6794,
+      "size": 4,
+      "kor": "마완"
+    },
+    {
+      "offset": 6837,
+      "size": 6,
+      "kor": "제갈량"
+    },
+    {
+      "offset": 6880,
+      "size": 4,
+      "kor": "장횡"
+    },
+    {
+      "offset": 6923,
+      "size": 4,
+      "kor": "마충"
+    },
+    {
+      "offset": 6966,
+      "size": 4,
+      "kor": "정은"
+    },
+    {
+      "offset": 7009,
+      "size": 4,
+      "kor": "마대"
+    },
+    {
+      "offset": 7052,
+      "size": 4,
+      "kor": "냉포"
+    },
+    {
+      "offset": 7095,
+      "size": 6,
+      "kor": "진란 "
+    },
+    {
+      "offset": 7138,
+      "size": 4,
+      "kor": "왕개"
+    },
+    {
+      "offset": 7181,
+      "size": 4,
+      "kor": "서상"
+    },
+    {
+      "offset": 7224,
+      "size": 4,
+      "kor": "가화"
+    },
+    {
+      "offset": 7267,
+      "size": 4,
+      "kor": "이담"
+    },
+    {
+      "offset": 7310,
+      "size": 4,
+      "kor": "보즐"
+    },
+    {
+      "offset": 7353,
+      "size": 4,
+      "kor": "화흠"
+    },
+    {
+      "offset": 7396,
+      "size": 4,
+      "kor": "맹달"
+    },
+    {
+      "offset": 7439,
+      "size": 4,
+      "kor": "양회"
+    },
+    {
+      "offset": 7482,
+      "size": 4,
+      "kor": "양평"
+    },
+    {
+      "offset": 7525,
+      "size": 4,
+      "kor": "송헌"
+    },
+    {
+      "offset": 7568,
+      "size": 4,
+      "kor": "양추"
+    },
+    {
+      "offset": 7611,
+      "size": 4,
+      "kor": "양송"
+    },
+    {
+      "offset": 7654,
+      "size": 4,
+      "kor": "양임"
+    },
+    {
+      "offset": 7697,
+      "size": 4,
+      "kor": "양백"
+    },
+    {
+      "offset": 7740,
+      "size": 4,
+      "kor": "위연"
+    },
+    {
+      "offset": 7783,
+      "size": 4,
+      "kor": "이이"
+    },
+    {
+      "offset": 7826,
+      "size": 4,
+      "kor": "주치"
+    },
+    {
+      "offset": 7869,
+      "size": 4,
+      "kor": "서성"
+    },
+    {
+      "offset": 7912,
+      "size": 4,
+      "kor": "제중"
+    },
+    {
+      "offset": 7955,
+      "size": 4,
+      "kor": "이엄"
+    },
+    {
+      "offset": 7998,
+      "size": 4,
+      "kor": "한수"
+    },
+    {
+      "offset": 8041,
+      "size": 4,
+      "kor": "가규"
+    },
+    {
+      "offset": 8084,
+      "size": 4,
+      "kor": "허정"
+    },
+    {
+      "offset": 8127,
+      "size": 4,
+      "kor": "공지"
+    },
+    {
+      "offset": 8170,
+      "size": 4,
+      "kor": "양령"
+    },
+    {
+      "offset": 8213,
+      "size": 4,
+      "kor": "뇌박"
+    },
+    {
+      "offset": 8256,
+      "size": 4,
+      "kor": "모개"
+    },
+    {
+      "offset": 8299,
+      "size": 4,
+      "kor": "양흥"
+    },
+    {
+      "offset": 8342,
+      "size": 4,
+      "kor": "방통"
+    },
+    {
+      "offset": 8385,
+      "size": 4,
+      "kor": "여개"
+    },
+    {
+      "offset": 8428,
+      "size": 4,
+      "kor": "여의"
+    },
+    {
+      "offset": 8471,
+      "size": 4,
+      "kor": "왕충"
+    },
+    {
+      "offset": 8514,
+      "size": 4,
+      "kor": "왕광"
+    },
+    {
+      "offset": 8557,
+      "size": 4,
+      "kor": "왕수"
+    },
+    {
+      "offset": 8600,
+      "size": 4,
+      "kor": "신비"
+    },
+    {
+      "offset": 8643,
+      "size": 4,
+      "kor": "유엽"
+    },
+    {
+      "offset": 8686,
+      "size": 4,
+      "kor": "정병"
+    },
+    {
+      "offset": 8729,
+      "size": 4,
+      "kor": "이회"
+    },
+    {
+      "offset": 8772,
+      "size": 4,
+      "kor": "종요"
+    },
+    {
+      "offset": 8815,
+      "size": 4,
+      "kor": "요화"
+    },
+    {
+      "offset": 8858,
+      "size": 4,
+      "kor": "제훈"
+    },
+    {
+      "offset": 8901,
+      "size": 4,
+      "kor": "상귄"
+    },
+    {
+      "offset": 8944,
+      "size": 4,
+      "kor": "가후"
+    },
+    {
+      "offset": 8987,
+      "size": 4,
+      "kor": "전종"
+    }
+  ],
+  [
+    {
+      "offset": 0,
+      "size": 4,
+      "kor": "조조"
+    },
+    {
+      "offset": 43,
+      "size": 4,
+      "kor": "유비"
+    },
+    {
+      "offset": 86,
+      "size": 4,
+      "kor": "손권"
+    },
+    {
+      "offset": 129,
+      "size": 4,
+      "kor": "마등"
+    },
+    {
+      "offset": 172,
+      "size": 4,
+      "kor": "유장"
+    },
+    {
+      "offset": 215,
+      "size": 4,
+      "kor": "금선"
+    },
+    {
+      "offset": 258,
+      "size": 4,
+      "kor": "한현"
+    },
+    {
+      "offset": 301,
+      "size": 4,
+      "kor": "조범"
+    },
+    {
+      "offset": 344,
+      "size": 4,
+      "kor": "유도"
+    },
+    {
+      "offset": 387,
+      "size": 4,
+      "kor": "장로"
+    },
+    {
+      "offset": 430,
+      "size": 4,
+      "kor": "조휴"
+    },
+    {
+      "offset": 473,
+      "size": 4,
+      "kor": "신비"
+    },
+    {
+      "offset": 516,
+      "size": 4,
+      "kor": "부간"
+    },
+    {
+      "offset": 559,
+      "size": 4,
+      "kor": "진교"
+    },
+    {
+      "offset": 602,
+      "size": 4,
+      "kor": "가후"
+    },
+    {
+      "offset": 645,
+      "size": 4,
+      "kor": "화흠"
+    },
+    {
+      "offset": 688,
+      "size": 6,
+      "kor": "하후돈"
+    },
+    {
+      "offset": 731,
+      "size": 4,
+      "kor": "학소"
+    },
+    {
+      "offset": 774,
+      "size": 4,
+      "kor": "조인"
+    },
+    {
+      "offset": 817,
+      "size": 6,
+      "kor": "하후패"
+    },
+    {
+      "offset": 860,
+      "size": 6,
+      "kor": "하후연"
+    },
+    {
+      "offset": 903,
+      "size": 4,
+      "kor": "마초"
+    },
+    {
+      "offset": 946,
+      "size": 6,
+      "kor": "장의거"
+    },
+    {
+      "offset": 989,
+      "size": 4,
+      "kor": "황개"
+    },
+    {
+      "offset": 1032,
+      "size": 4,
+      "kor": "주항"
+    },
+    {
+      "offset": 1075,
+      "size": 4,
+      "kor": "여몽"
+    },
+    {
+      "offset": 1118,
+      "size": 4,
+      "kor": "동화"
+    },
+    {
+      "offset": 1161,
+      "size": 4,
+      "kor": "엄안"
+    },
+    {
+      "offset": 1204,
+      "size": 4,
+      "kor": "이엄"
+    },
+    {
+      "offset": 1247,
+      "size": 4,
+      "kor": "황권"
+    },
+    {
+      "offset": 1290,
+      "size": 4,
+      "kor": "장송"
+    },
+    {
+      "offset": 1333,
+      "size": 4,
+      "kor": "동형"
+    },
+    {
+      "offset": 1376,
+      "size": 4,
+      "kor": "마철"
+    },
+    {
+      "offset": 1419,
+      "size": 4,
+      "kor": "염포"
+    },
+    {
+      "offset": 1462,
+      "size": 4,
+      "kor": "공지"
+    },
+    {
+      "offset": 1505,
+      "size": 4,
+      "kor": "진군"
+    },
+    {
+      "offset": 1548,
+      "size": 4,
+      "kor": "장료"
+    },
+    {
+      "offset": 1591,
+      "size": 4,
+      "kor": "왕항"
+    },
+    {
+      "offset": 1634,
+      "size": 4,
+      "kor": "황충"
+    },
+    {
+      "offset": 1677,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 1720,
+      "size": 4,
+      "kor": "서황"
+    },
+    {
+      "offset": 1763,
+      "size": 4,
+      "kor": "서상"
+    },
+    {
+      "offset": 1806,
+      "size": 4,
+      "kor": "왕평"
+    },
+    {
+      "offset": 1849,
+      "size": 4,
+      "kor": "상귄"
+    },
+    {
+      "offset": 1892,
+      "size": 4,
+      "kor": "왕루"
+    },
+    {
+      "offset": 1935,
+      "size": 4,
+      "kor": "감택"
+    },
+    {
+      "offset": 1978,
+      "size": 4,
+      "kor": "조진"
+    },
+    {
+      "offset": 2021,
+      "size": 4,
+      "kor": "장익"
+    },
+    {
+      "offset": 2064,
+      "size": 4,
+      "kor": "주유"
+    },
+    {
+      "offset": 2107,
+      "size": 6,
+      "kor": "제갈량"
+    },
+    {
+      "offset": 2150,
+      "size": 4,
+      "kor": "오의"
+    },
+    {
+      "offset": 2193,
+      "size": 4,
+      "kor": "악진"
+    },
+    {
+      "offset": 2236,
+      "size": 6,
+      "kor": "사마의"
+    },
+    {
+      "offset": 2279,
+      "size": 4,
+      "kor": "장합"
+    },
+    {
+      "offset": 2322,
+      "size": 4,
+      "kor": "순욱"
+    },
+    {
+      "offset": 2365,
+      "size": 4,
+      "kor": "조홍"
+    },
+    {
+      "offset": 2408,
+      "size": 4,
+      "kor": "허저"
+    },
+    {
+      "offset": 2451,
+      "size": 4,
+      "kor": "관우"
+    },
+    {
+      "offset": 2494,
+      "size": 4,
+      "kor": "조운"
+    },
+    {
+      "offset": 2537,
+      "size": 4,
+      "kor": "위연"
+    },
+    {
+      "offset": 2580,
+      "size": 4,
+      "kor": "장비"
+    },
+    {
+      "offset": 2623,
+      "size": 4,
+      "kor": "순유"
+    },
+    {
+      "offset": 2666,
+      "size": 4,
+      "kor": "담웅"
+    },
+    {
+      "offset": 2709,
+      "size": 4,
+      "kor": "노숙"
+    },
+    {
+      "offset": 2752,
+      "size": 4,
+      "kor": "장광"
+    },
+    {
+      "offset": 2795,
+      "size": 4,
+      "kor": "손건"
+    },
+    {
+      "offset": 2838,
+      "size": 4,
+      "kor": "문빙"
+    },
+    {
+      "offset": 2881,
+      "size": 4,
+      "kor": "한숭"
+    },
+    {
+      "offset": 2924,
+      "size": 4,
+      "kor": "장임"
+    },
+    {
+      "offset": 2967,
+      "size": 4,
+      "kor": "간옹"
+    },
+    {
+      "offset": 3010,
+      "size": 4,
+      "kor": "마완"
+    },
+    {
+      "offset": 3053,
+      "size": 4,
+      "kor": "한호"
+    },
+    {
+      "offset": 3096,
+      "size": 6,
+      "kor": "제갈근"
+    },
+    {
+      "offset": 3139,
+      "size": 4,
+      "kor": "감녕"
+    },
+    {
+      "offset": 3182,
+      "size": 6,
+      "kor": "형도영"
+    },
+    {
+      "offset": 3225,
+      "size": 4,
+      "kor": "설종"
+    },
+    {
+      "offset": 3268,
+      "size": 4,
+      "kor": "한당"
+    },
+    {
+      "offset": 3311,
+      "size": 4,
+      "kor": "뇌동"
+    },
+    {
+      "offset": 3354,
+      "size": 4,
+      "kor": "진희"
+    },
+    {
+      "offset": 3397,
+      "size": 4,
+      "kor": "마대"
+    },
+    {
+      "offset": 3440,
+      "size": 4,
+      "kor": "양령"
+    },
+    {
+      "offset": 3483,
+      "size": 4,
+      "kor": "고정"
+    },
+    {
+      "offset": 3526,
+      "size": 4,
+      "kor": "공융"
+    },
+    {
+      "offset": 3569,
+      "size": 4,
+      "kor": "장완"
+    },
+    {
+      "offset": 3612,
+      "size": 4,
+      "kor": "조통"
+    },
+    {
+      "offset": 3655,
+      "size": 4,
+      "kor": "오란"
+    },
+    {
+      "offset": 3698,
+      "size": 4,
+      "kor": "장소"
+    },
+    {
+      "offset": 3741,
+      "size": 4,
+      "kor": "조장"
+    },
+    {
+      "offset": 3784,
+      "size": 6,
+      "kor": "하후위"
+    },
+    {
+      "offset": 3827,
+      "size": 6,
+      "kor": "하후덕"
+    },
+    {
+      "offset": 3870,
+      "size": 4,
+      "kor": "우번"
+    },
+    {
+      "offset": 3913,
+      "size": 4,
+      "kor": "관흥"
+    },
+    {
+      "offset": 3956,
+      "size": 4,
+      "kor": "주태"
+    },
+    {
+      "offset": 3999,
+      "size": 4,
+      "kor": "손항"
+    },
+    {
+      "offset": 4042,
+      "size": 4,
+      "kor": "손유"
+    },
+    {
+      "offset": 4085,
+      "size": 6,
+      "kor": "태사자"
+    },
+    {
+      "offset": 4128,
+      "size": 4,
+      "kor": "장휴"
+    },
+    {
+      "offset": 4171,
+      "size": 4,
+      "kor": "오반"
+    },
+    {
+      "offset": 4214,
+      "size": 4,
+      "kor": "정보"
+    },
+    {
+      "offset": 4257,
+      "size": 4,
+      "kor": "정병"
+    },
+    {
+      "offset": 4300,
+      "size": 4,
+      "kor": "양홍"
+    },
+    {
+      "offset": 4343,
+      "size": 6,
+      "kor": "하후상"
+    },
+    {
+      "offset": 4386,
+      "size": 4,
+      "kor": "방덕"
+    },
+    {
+      "offset": 4429,
+      "size": 4,
+      "kor": "후성"
+    },
+    {
+      "offset": 4472,
+      "size": 4,
+      "kor": "육손"
+    },
+    {
+      "offset": 4515,
+      "size": 4,
+      "kor": "후선"
+    },
+    {
+      "offset": 4558,
+      "size": 4,
+      "kor": "장형"
+    },
+    {
+      "offset": 4601,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 4644,
+      "size": 4,
+      "kor": "조비"
+    },
+    {
+      "offset": 4687,
+      "size": 4,
+      "kor": "송겸"
+    },
+    {
+      "offset": 4730,
+      "size": 4,
+      "kor": "조식"
+    },
+    {
+      "offset": 4773,
+      "size": 4,
+      "kor": "마휴"
+    },
+    {
+      "offset": 4816,
+      "size": 4,
+      "kor": "장윤"
+    },
+    {
+      "offset": 4859,
+      "size": 4,
+      "kor": "미방"
+    },
+    {
+      "offset": 4902,
+      "size": 4,
+      "kor": "미축"
+    },
+    {
+      "offset": 4945,
+      "size": 4,
+      "kor": "장포"
+    },
+    {
+      "offset": 4988,
+      "size": 4,
+      "kor": "괴월"
+    },
+    {
+      "offset": 5031,
+      "size": 4,
+      "kor": "관평"
+    },
+    {
+      "offset": 5074,
+      "size": 4,
+      "kor": "주창"
+    },
+    {
+      "offset": 5117,
+      "size": 4,
+      "kor": "양앙"
+    },
+    {
+      "offset": 5160,
+      "size": 4,
+      "kor": "양송"
+    },
+    {
+      "offset": 5203,
+      "size": 4,
+      "kor": "양임"
+    },
+    {
+      "offset": 5246,
+      "size": 4,
+      "kor": "양백"
+    },
+    {
+      "offset": 5289,
+      "size": 4,
+      "kor": "양평"
+    },
+    {
+      "offset": 5332,
+      "size": 4,
+      "kor": "괴량"
+    },
+    {
+      "offset": 5375,
+      "size": 4,
+      "kor": "곽혁"
+    },
+    {
+      "offset": 5418,
+      "size": 4,
+      "kor": "종요"
+    },
+    {
+      "offset": 5461,
+      "size": 4,
+      "kor": "양수"
+    },
+    {
+      "offset": 5504,
+      "size": 4,
+      "kor": "항계"
+    },
+    {
+      "offset": 5547,
+      "size": 4,
+      "kor": "서서"
+    },
+    {
+      "offset": 5590,
+      "size": 4,
+      "kor": "왕광"
+    },
+    {
+      "offset": 5633,
+      "size": 4,
+      "kor": "주령"
+    },
+    {
+      "offset": 5676,
+      "size": 4,
+      "kor": "초촉"
+    },
+    {
+      "offset": 5719,
+      "size": 4,
+      "kor": "가규"
+    },
+    {
+      "offset": 5762,
+      "size": 4,
+      "kor": "곽준"
+    },
+    {
+      "offset": 5805,
+      "size": 4,
+      "kor": "요화"
+    },
+    {
+      "offset": 5848,
+      "size": 4,
+      "kor": "염준"
+    },
+    {
+      "offset": 5891,
+      "size": 4,
+      "kor": "주연"
+    },
+    {
+      "offset": 5934,
+      "size": 4,
+      "kor": "보즐"
+    },
+    {
+      "offset": 5977,
+      "size": 4,
+      "kor": "장영"
+    },
+    {
+      "offset": 6020,
+      "size": 4,
+      "kor": "성의"
+    },
+    {
+      "offset": 6063,
+      "size": 4,
+      "kor": "주치"
+    },
+    {
+      "offset": 6106,
+      "size": 4,
+      "kor": "상총"
+    },
+    {
+      "offset": 6149,
+      "size": 4,
+      "kor": "장남"
+    },
+    {
+      "offset": 6192,
+      "size": 6,
+      "kor": "하후무"
+    },
+    {
+      "offset": 6235,
+      "size": 4,
+      "kor": "뇌박"
+    },
+    {
+      "offset": 6278,
+      "size": 4,
+      "kor": "정봉"
+    },
+    {
+      "offset": 6321,
+      "size": 4,
+      "kor": "허정"
+    },
+    {
+      "offset": 6364,
+      "size": 4,
+      "kor": "유순"
+    },
+    {
+      "offset": 6407,
+      "size": 4,
+      "kor": "여광"
+    },
+    {
+      "offset": 6450,
+      "size": 4,
+      "kor": "고패"
+    },
+    {
+      "offset": 6493,
+      "size": 4,
+      "kor": "조순"
+    },
+    {
+      "offset": 6536,
+      "size": 4,
+      "kor": "진응"
+    },
+    {
+      "offset": 6579,
+      "size": 4,
+      "kor": "전만"
+    },
+    {
+      "offset": 6622,
+      "size": 4,
+      "kor": "왕개"
+    },
+    {
+      "offset": 6665,
+      "size": 4,
+      "kor": "진무"
+    },
+    {
+      "offset": 6708,
+      "size": 4,
+      "kor": "유봉"
+    },
+    {
+      "offset": 6751,
+      "size": 4,
+      "kor": "정욱"
+    },
+    {
+      "offset": 6794,
+      "size": 4,
+      "kor": "정은"
+    },
+    {
+      "offset": 6837,
+      "size": 4,
+      "kor": "주방"
+    },
+    {
+      "offset": 6880,
+      "size": 4,
+      "kor": "번장"
+    },
+    {
+      "offset": 6923,
+      "size": 4,
+      "kor": "왕충"
+    },
+    {
+      "offset": 6966,
+      "size": 4,
+      "kor": "진식"
+    },
+    {
+      "offset": 7009,
+      "size": 4,
+      "kor": "등의"
+    },
+    {
+      "offset": 7052,
+      "size": 4,
+      "kor": "비시"
+    },
+    {
+      "offset": 7095,
+      "size": 4,
+      "kor": "모개"
+    },
+    {
+      "offset": 7138,
+      "size": 4,
+      "kor": "조광"
+    },
+    {
+      "offset": 7181,
+      "size": 4,
+      "kor": "동습"
+    },
+    {
+      "offset": 7224,
+      "size": 4,
+      "kor": "두습"
+    },
+    {
+      "offset": 7267,
+      "size": 4,
+      "kor": "이이"
+    },
+    {
+      "offset": 7310,
+      "size": 4,
+      "kor": "마연"
+    },
+    {
+      "offset": 7353,
+      "size": 4,
+      "kor": "장횡"
+    },
+    {
+      "offset": 7396,
+      "size": 4,
+      "kor": "이적"
+    },
+    {
+      "offset": 7439,
+      "size": 4,
+      "kor": "방유"
+    },
+    {
+      "offset": 7482,
+      "size": 4,
+      "kor": "등현"
+    },
+    {
+      "offset": 7525,
+      "size": 4,
+      "kor": "마충"
+    },
+    {
+      "offset": 7568,
+      "size": 4,
+      "kor": "장수"
+    },
+    {
+      "offset": 7611,
+      "size": 4,
+      "kor": "양회"
+    },
+    {
+      "offset": 7654,
+      "size": 4,
+      "kor": "이담"
+    },
+    {
+      "offset": 7697,
+      "size": 4,
+      "kor": "양흥"
+    },
+    {
+      "offset": 7740,
+      "size": 4,
+      "kor": "육적"
+    },
+    {
+      "offset": 7783,
+      "size": 4,
+      "kor": "여상"
+    },
+    {
+      "offset": 7826,
+      "size": 4,
+      "kor": "맹달"
+    },
+    {
+      "offset": 7869,
+      "size": 4,
+      "kor": "유귀"
+    },
+    {
+      "offset": 7912,
+      "size": 4,
+      "kor": "법정"
+    },
+    {
+      "offset": 7955,
+      "size": 4,
+      "kor": "양추"
+    },
+    {
+      "offset": 7998,
+      "size": 4,
+      "kor": "왕찬"
+    },
+    {
+      "offset": 8041,
+      "size": 4,
+      "kor": "마량"
+    },
+    {
+      "offset": 8084,
+      "size": 4,
+      "kor": "장승"
+    },
+    {
+      "offset": 8127,
+      "size": 4,
+      "kor": "이회"
+    },
+    {
+      "offset": 8170,
+      "size": 4,
+      "kor": "능통"
+    },
+    {
+      "offset": 8213,
+      "size": 4,
+      "kor": "장온"
+    },
+    {
+      "offset": 8256,
+      "size": 4,
+      "kor": "이통"
+    },
+    {
+      "offset": 8299,
+      "size": 4,
+      "kor": "이전"
+    },
+    {
+      "offset": 8342,
+      "size": 4,
+      "kor": "여범"
+    },
+    {
+      "offset": 8385,
+      "size": 4,
+      "kor": "유연"
+    },
+    {
+      "offset": 8428,
+      "size": 4,
+      "kor": "유반"
+    },
+    {
+      "offset": 8471,
+      "size": 4,
+      "kor": "방통"
+    },
+    {
+      "offset": 8514,
+      "size": 4,
+      "kor": "관삭"
+    },
+    {
+      "offset": 8557,
+      "size": 4,
+      "kor": "유엽"
+    },
+    {
+      "offset": 8600,
+      "size": 4,
+      "kor": "한수"
+    },
+    {
+      "offset": 8643,
+      "size": 4,
+      "kor": "가화"
+    },
+    {
+      "offset": 8686,
+      "size": 4,
+      "kor": "여개"
+    },
+    {
+      "offset": 8729,
+      "size": 4,
+      "kor": "여의"
+    },
+    {
+      "offset": 8772,
+      "size": 4,
+      "kor": "냉포"
+    },
+    {
+      "offset": 8815,
+      "size": 4,
+      "kor": "전종"
+    },
+    {
+      "offset": 8858,
+      "size": 4,
+      "kor": "고옹"
+    },
+    {
+      "offset": 8901,
+      "size": 4,
+      "kor": "왕수"
+    },
+    {
+      "offset": 8944,
+      "size": 4,
+      "kor": "여상"
+    },
+    {
+      "offset": 8987,
+      "size": 4,
+      "kor": "여견"
+    },
+    {
+      "offset": 9030,
+      "size": 4,
+      "kor": "여건"
+    },
+    {
+      "offset": 9073,
+      "size": 4,
+      "kor": "포룡"
+    },
+    {
+      "offset": 9116,
+      "size": 4,
+      "kor": "서성"
+    },
+    {
+      "offset": 9159,
+      "size": 4,
+      "kor": "제훈"
+    }
+  ],
+  [
+    {
+      "offset": 0,
+      "size": 4,
+      "kor": "조조"
+    },
+    {
+      "offset": 43,
+      "size": 4,
+      "kor": "유비"
+    },
+    {
+      "offset": 86,
+      "size": 4,
+      "kor": "손권"
+    },
+    {
+      "offset": 129,
+      "size": 4,
+      "kor": "맹획"
+    },
+    {
+      "offset": 172,
+      "size": 4,
+      "kor": "신비"
+    },
+    {
+      "offset": 215,
+      "size": 4,
+      "kor": "조순"
+    },
+    {
+      "offset": 258,
+      "size": 4,
+      "kor": "부간"
+    },
+    {
+      "offset": 301,
+      "size": 4,
+      "kor": "가후"
+    },
+    {
+      "offset": 344,
+      "size": 4,
+      "kor": "정욱"
+    },
+    {
+      "offset": 387,
+      "size": 6,
+      "kor": "하후돈"
+    },
+    {
+      "offset": 430,
+      "size": 4,
+      "kor": "종요"
+    },
+    {
+      "offset": 473,
+      "size": 4,
+      "kor": "허저"
+    },
+    {
+      "offset": 516,
+      "size": 4,
+      "kor": "조인"
+    },
+    {
+      "offset": 559,
+      "size": 4,
+      "kor": "조진"
+    },
+    {
+      "offset": 602,
+      "size": 4,
+      "kor": "장로"
+    },
+    {
+      "offset": 645,
+      "size": 4,
+      "kor": "후선"
+    },
+    {
+      "offset": 688,
+      "size": 4,
+      "kor": "화흠"
+    },
+    {
+      "offset": 731,
+      "size": 4,
+      "kor": "이통"
+    },
+    {
+      "offset": 774,
+      "size": 4,
+      "kor": "장료"
+    },
+    {
+      "offset": 817,
+      "size": 4,
+      "kor": "미축"
+    },
+    {
+      "offset": 860,
+      "size": 4,
+      "kor": "서성"
+    },
+    {
+      "offset": 903,
+      "size": 4,
+      "kor": "우번"
+    },
+    {
+      "offset": 946,
+      "size": 4,
+      "kor": "주항"
+    },
+    {
+      "offset": 989,
+      "size": 4,
+      "kor": "감녕"
+    },
+    {
+      "offset": 1032,
+      "size": 4,
+      "kor": "주방"
+    },
+    {
+      "offset": 1075,
+      "size": 4,
+      "kor": "주태"
+    },
+    {
+      "offset": 1118,
+      "size": 4,
+      "kor": "여몽"
+    },
+    {
+      "offset": 1161,
+      "size": 6,
+      "kor": "하후연"
+    },
+    {
+      "offset": 1204,
+      "size": 4,
+      "kor": "조홍"
+    },
+    {
+      "offset": 1247,
+      "size": 4,
+      "kor": "조운"
+    },
+    {
+      "offset": 1290,
+      "size": 4,
+      "kor": "장비"
+    },
+    {
+      "offset": 1333,
+      "size": 4,
+      "kor": "관우"
+    },
+    {
+      "offset": 1376,
+      "size": 4,
+      "kor": "마초"
+    },
+    {
+      "offset": 1419,
+      "size": 4,
+      "kor": "왕항"
+    },
+    {
+      "offset": 1462,
+      "size": 4,
+      "kor": "정병"
+    },
+    {
+      "offset": 1505,
+      "size": 4,
+      "kor": "장휴"
+    },
+    {
+      "offset": 1548,
+      "size": 4,
+      "kor": "감택"
+    },
+    {
+      "offset": 1591,
+      "size": 4,
+      "kor": "능통"
+    },
+    {
+      "offset": 1634,
+      "size": 4,
+      "kor": "옹개"
+    },
+    {
+      "offset": 1677,
+      "size": 4,
+      "kor": "관평"
+    },
+    {
+      "offset": 1720,
+      "size": 6,
+      "kor": "제갈량"
+    },
+    {
+      "offset": 1763,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 1806,
+      "size": 4,
+      "kor": "염포"
+    },
+    {
+      "offset": 1849,
+      "size": 4,
+      "kor": "마대"
+    },
+    {
+      "offset": 1892,
+      "size": 4,
+      "kor": "왕개"
+    },
+    {
+      "offset": 1935,
+      "size": 4,
+      "kor": "서서"
+    },
+    {
+      "offset": 1978,
+      "size": 4,
+      "kor": "왕수"
+    },
+    {
+      "offset": 2021,
+      "size": 4,
+      "kor": "학소"
+    },
+    {
+      "offset": 2064,
+      "size": 4,
+      "kor": "왕충"
+    },
+    {
+      "offset": 2107,
+      "size": 4,
+      "kor": "이적"
+    },
+    {
+      "offset": 2150,
+      "size": 4,
+      "kor": "주연"
+    },
+    {
+      "offset": 2193,
+      "size": 4,
+      "kor": "괴량"
+    },
+    {
+      "offset": 2236,
+      "size": 6,
+      "kor": "하후패"
+    },
+    {
+      "offset": 2279,
+      "size": 4,
+      "kor": "가규"
+    },
+    {
+      "offset": 2322,
+      "size": 4,
+      "kor": "노숙"
+    },
+    {
+      "offset": 2365,
+      "size": 4,
+      "kor": "황충"
+    },
+    {
+      "offset": 2408,
+      "size": 4,
+      "kor": "곽회"
+    },
+    {
+      "offset": 2451,
+      "size": 6,
+      "kor": "하후혜"
+    },
+    {
+      "offset": 2494,
+      "size": 4,
+      "kor": "한수"
+    },
+    {
+      "offset": 2537,
+      "size": 4,
+      "kor": "두습"
+    },
+    {
+      "offset": 2580,
+      "size": 6,
+      "kor": "사마의"
+    },
+    {
+      "offset": 2623,
+      "size": 4,
+      "kor": "등지"
+    },
+    {
+      "offset": 2666,
+      "size": 4,
+      "kor": "동윤"
+    },
+    {
+      "offset": 2709,
+      "size": 4,
+      "kor": "마속"
+    },
+    {
+      "offset": 2752,
+      "size": 4,
+      "kor": "주창"
+    },
+    {
+      "offset": 2795,
+      "size": 6,
+      "kor": "하후상"
+    },
+    {
+      "offset": 2838,
+      "size": 4,
+      "kor": "상총"
+    },
+    {
+      "offset": 2881,
+      "size": 4,
+      "kor": "정보"
+    },
+    {
+      "offset": 2924,
+      "size": 4,
+      "kor": "관삭"
+    },
+    {
+      "offset": 2967,
+      "size": 4,
+      "kor": "법정"
+    },
+    {
+      "offset": 3010,
+      "size": 6,
+      "kor": "하후위"
+    },
+    {
+      "offset": 3053,
+      "size": 4,
+      "kor": "손건"
+    },
+    {
+      "offset": 3096,
+      "size": 4,
+      "kor": "엄안"
+    },
+    {
+      "offset": 3139,
+      "size": 4,
+      "kor": "맹우"
+    },
+    {
+      "offset": 3182,
+      "size": 6,
+      "kor": "장의거"
+    },
+    {
+      "offset": 3225,
+      "size": 4,
+      "kor": "방덕"
+    },
+    {
+      "offset": 3268,
+      "size": 4,
+      "kor": "조비"
+    },
+    {
+      "offset": 3311,
+      "size": 4,
+      "kor": "손유"
+    },
+    {
+      "offset": 3354,
+      "size": 4,
+      "kor": "비위"
+    },
+    {
+      "offset": 3397,
+      "size": 4,
+      "kor": "오란"
+    },
+    {
+      "offset": 3440,
+      "size": 4,
+      "kor": "손항"
+    },
+    {
+      "offset": 3483,
+      "size": 4,
+      "kor": "마량"
+    },
+    {
+      "offset": 3526,
+      "size": 6,
+      "kor": "두사왕"
+    },
+    {
+      "offset": 3569,
+      "size": 4,
+      "kor": "장합"
+    },
+    {
+      "offset": 3612,
+      "size": 4,
+      "kor": "왕평"
+    },
+    {
+      "offset": 3655,
+      "size": 4,
+      "kor": "유표"
+    },
+    {
+      "offset": 3698,
+      "size": 4,
+      "kor": "조장"
+    },
+    {
+      "offset": 3741,
+      "size": 4,
+      "kor": "조식"
+    },
+    {
+      "offset": 3784,
+      "size": 4,
+      "kor": "서황"
+    },
+    {
+      "offset": 3827,
+      "size": 4,
+      "kor": "유엽"
+    },
+    {
+      "offset": 3870,
+      "size": 4,
+      "kor": "여개"
+    },
+    {
+      "offset": 3913,
+      "size": 4,
+      "kor": "엄준"
+    },
+    {
+      "offset": 3956,
+      "size": 4,
+      "kor": "이이"
+    },
+    {
+      "offset": 3999,
+      "size": 4,
+      "kor": "간옹"
+    },
+    {
+      "offset": 4042,
+      "size": 4,
+      "kor": "오반"
+    },
+    {
+      "offset": 4085,
+      "size": 4,
+      "kor": "관흥"
+    },
+    {
+      "offset": 4128,
+      "size": 4,
+      "kor": "오의"
+    },
+    {
+      "offset": 4171,
+      "size": 4,
+      "kor": "곽혁"
+    },
+    {
+      "offset": 4214,
+      "size": 4,
+      "kor": "악진"
+    },
+    {
+      "offset": 4257,
+      "size": 4,
+      "kor": "이전"
+    },
+    {
+      "offset": 4300,
+      "size": 4,
+      "kor": "양추"
+    },
+    {
+      "offset": 4343,
+      "size": 6,
+      "kor": "하후덕"
+    },
+    {
+      "offset": 4386,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 4429,
+      "size": 6,
+      "kor": "제갈근"
+    },
+    {
+      "offset": 4472,
+      "size": 4,
+      "kor": "왕찬"
+    },
+    {
+      "offset": 4515,
+      "size": 4,
+      "kor": "담웅"
+    },
+    {
+      "offset": 4558,
+      "size": 6,
+      "kor": "아회남"
+    },
+    {
+      "offset": 4601,
+      "size": 4,
+      "kor": "마충"
+    },
+    {
+      "offset": 4644,
+      "size": 4,
+      "kor": "상귄"
+    },
+    {
+      "offset": 4687,
+      "size": 4,
+      "kor": "조광"
+    },
+    {
+      "offset": 4730,
+      "size": 4,
+      "kor": "고옹"
+    },
+    {
+      "offset": 4773,
+      "size": 4,
+      "kor": "장포"
+    },
+    {
+      "offset": 4816,
+      "size": 4,
+      "kor": "곽준"
+    },
+    {
+      "offset": 4859,
+      "size": 4,
+      "kor": "위연"
+    },
+    {
+      "offset": 4902,
+      "size": 4,
+      "kor": "공지"
+    },
+    {
+      "offset": 4945,
+      "size": 4,
+      "kor": "조통"
+    },
+    {
+      "offset": 4988,
+      "size": 4,
+      "kor": "조범"
+    },
+    {
+      "offset": 5031,
+      "size": 4,
+      "kor": "조루"
+    },
+    {
+      "offset": 5074,
+      "size": 4,
+      "kor": "문빙"
+    },
+    {
+      "offset": 5117,
+      "size": 4,
+      "kor": "진교"
+    },
+    {
+      "offset": 5160,
+      "size": 4,
+      "kor": "진군"
+    },
+    {
+      "offset": 5203,
+      "size": 4,
+      "kor": "진식"
+    },
+    {
+      "offset": 5246,
+      "size": 4,
+      "kor": "장익"
+    },
+    {
+      "offset": 5289,
+      "size": 4,
+      "kor": "여패"
+    },
+    {
+      "offset": 5332,
+      "size": 6,
+      "kor": "부사인"
+    },
+    {
+      "offset": 5375,
+      "size": 4,
+      "kor": "여견"
+    },
+    {
+      "offset": 5418,
+      "size": 4,
+      "kor": "여범"
+    },
+    {
+      "offset": 5461,
+      "size": 4,
+      "kor": "장소"
+    },
+    {
+      "offset": 5504,
+      "size": 4,
+      "kor": "여건"
+    },
+    {
+      "offset": 5547,
+      "size": 4,
+      "kor": "장달"
+    },
+    {
+      "offset": 5590,
+      "size": 4,
+      "kor": "비관"
+    },
+    {
+      "offset": 5633,
+      "size": 4,
+      "kor": "항계"
+    },
+    {
+      "offset": 5676,
+      "size": 4,
+      "kor": "장완"
+    },
+    {
+      "offset": 5719,
+      "size": 4,
+      "kor": "동습"
+    },
+    {
+      "offset": 5762,
+      "size": 6,
+      "kor": "금환결"
+    },
+    {
+      "offset": 5805,
+      "size": 4,
+      "kor": "범강"
+    },
+    {
+      "offset": 5848,
+      "size": 4,
+      "kor": "전종"
+    },
+    {
+      "offset": 5891,
+      "size": 4,
+      "kor": "미방"
+    },
+    {
+      "offset": 5934,
+      "size": 4,
+      "kor": "맹달"
+    },
+    {
+      "offset": 5977,
+      "size": 4,
+      "kor": "설종"
+    },
+    {
+      "offset": 6020,
+      "size": 4,
+      "kor": "방의"
+    },
+    {
+      "offset": 6063,
+      "size": 4,
+      "kor": "왕위"
+    },
+    {
+      "offset": 6106,
+      "size": 4,
+      "kor": "비시"
+    },
+    {
+      "offset": 6149,
+      "size": 4,
+      "kor": "한숭"
+    },
+    {
+      "offset": 6192,
+      "size": 4,
+      "kor": "반준"
+    },
+    {
+      "offset": 6235,
+      "size": 4,
+      "kor": "보즐"
+    },
+    {
+      "offset": 6278,
+      "size": 4,
+      "kor": "진희"
+    },
+    {
+      "offset": 6321,
+      "size": 4,
+      "kor": "방유"
+    },
+    {
+      "offset": 6364,
+      "size": 4,
+      "kor": "황건"
+    },
+    {
+      "offset": 6407,
+      "size": 4,
+      "kor": "양홍"
+    },
+    {
+      "offset": 6450,
+      "size": 4,
+      "kor": "왕광"
+    },
+    {
+      "offset": 6493,
+      "size": 4,
+      "kor": "가화"
+    },
+    {
+      "offset": 6536,
+      "size": 4,
+      "kor": "고정"
+    },
+    {
+      "offset": 6579,
+      "size": 6,
+      "kor": "동다노"
+    },
+    {
+      "offset": 6622,
+      "size": 4,
+      "kor": "모개"
+    },
+    {
+      "offset": 6665,
+      "size": 4,
+      "kor": "등의"
+    },
+    {
+      "offset": 6708,
+      "size": 4,
+      "kor": "장승"
+    },
+    {
+      "offset": 6751,
+      "size": 4,
+      "kor": "유봉"
+    },
+    {
+      "offset": 6794,
+      "size": 4,
+      "kor": "허정"
+    },
+    {
+      "offset": 6837,
+      "size": 6,
+      "kor": "하후무"
+    },
+    {
+      "offset": 6880,
+      "size": 4,
+      "kor": "진란"
+    },
+    {
+      "offset": 6923,
+      "size": 4,
+      "kor": "주치"
+    },
+    {
+      "offset": 6966,
+      "size": 4,
+      "kor": "요화"
+    },
+    {
+      "offset": 7009,
+      "size": 4,
+      "kor": "장온"
+    },
+    {
+      "offset": 7052,
+      "size": 4,
+      "kor": "육손"
+    },
+    {
+      "offset": 7095,
+      "size": 4,
+      "kor": "이엄"
+    },
+    {
+      "offset": 7138,
+      "size": 4,
+      "kor": "번장"
+    },
+    {
+      "offset": 7181,
+      "size": 4,
+      "kor": "괴월"
+    },
+    {
+      "offset": 7224,
+      "size": 4,
+      "kor": "유파"
+    },
+    {
+      "offset": 7267,
+      "size": 4,
+      "kor": "장저"
+    },
+    {
+      "offset": 7310,
+      "size": 4,
+      "kor": "양의"
+    },
+    {
+      "offset": 7353,
+      "size": 6,
+      "kor": "사마가"
+    },
+    {
+      "offset": 7396,
+      "size": 4,
+      "kor": "여의"
+    },
+    {
+      "offset": 7439,
+      "size": 4,
+      "kor": "여상"
+    },
+    {
+      "offset": 7482,
+      "size": 4,
+      "kor": "전만"
+    },
+    {
+      "offset": 7525,
+      "size": 4,
+      "kor": "진무"
+    },
+    {
+      "offset": 7568,
+      "size": 4,
+      "kor": "육적"
+    },
+    {
+      "offset": 7611,
+      "size": 4,
+      "kor": "장호"
+    },
+    {
+      "offset": 7654,
+      "size": 4,
+      "kor": "이회"
+    },
+    {
+      "offset": 7697,
+      "size": 4,
+      "kor": "한호"
+    },
+    {
+      "offset": 7740,
+      "size": 4,
+      "kor": "장영"
+    },
+    {
+      "offset": 7783,
+      "size": 4,
+      "kor": "사정"
+    },
+    {
+      "offset": 7826,
+      "size": 4,
+      "kor": "후성"
+    },
+    {
+      "offset": 7869,
+      "size": 4,
+      "kor": "동형"
+    },
+    {
+      "offset": 7912,
+      "size": 4,
+      "kor": "조휴"
+    },
+    {
+      "offset": 7955,
+      "size": 4,
+      "kor": "유연"
+    },
+    {
+      "offset": 7998,
+      "size": 4,
+      "kor": "주포"
+    },
+    {
+      "offset": 8041,
+      "size": 4,
+      "kor": "주령"
+    },
+    {
+      "offset": 8084,
+      "size": 4,
+      "kor": "서상"
+    },
+    {
+      "offset": 8127,
+      "size": 4,
+      "kor": "정봉"
+    },
+    {
+      "offset": 8170,
+      "size": 4,
+      "kor": "유반"
+    },
+    {
+      "offset": 8213,
+      "size": 4,
+      "kor": "뇌박"
+    },
+    {
+      "offset": 8256,
+      "size": 4,
+      "kor": "냉포"
+    },
+    {
+      "offset": 8299,
+      "size": 4,
+      "kor": "문흠"
+    },
+    {
+      "offset": 8342,
+      "size": 4,
+      "kor": "손례"
+    },
+    {
+      "offset": 8385,
+      "size": 4,
+      "kor": "진태"
+    }
+  ],
+  [
+    {
+      "offset": 0,
+      "size": 4,
+      "kor": "조비"
+    },
+    {
+      "offset": 43,
+      "size": 4,
+      "kor": "유비"
+    },
+    {
+      "offset": 86,
+      "size": 4,
+      "kor": "손권"
+    },
+    {
+      "offset": 129,
+      "size": 4,
+      "kor": "맹획"
+    },
+    {
+      "offset": 172,
+      "size": 4,
+      "kor": "신비"
+    },
+    {
+      "offset": 215,
+      "size": 4,
+      "kor": "조순"
+    },
+    {
+      "offset": 258,
+      "size": 4,
+      "kor": "부간"
+    },
+    {
+      "offset": 301,
+      "size": 4,
+      "kor": "서서"
+    },
+    {
+      "offset": 344,
+      "size": 4,
+      "kor": "정욱"
+    },
+    {
+      "offset": 387,
+      "size": 4,
+      "kor": "진교"
+    },
+    {
+      "offset": 430,
+      "size": 4,
+      "kor": "화흠"
+    },
+    {
+      "offset": 473,
+      "size": 6,
+      "kor": "공손연"
+    },
+    {
+      "offset": 516,
+      "size": 4,
+      "kor": "조식"
+    },
+    {
+      "offset": 559,
+      "size": 4,
+      "kor": "조진"
+    },
+    {
+      "offset": 602,
+      "size": 4,
+      "kor": "조홍"
+    },
+    {
+      "offset": 645,
+      "size": 4,
+      "kor": "장로"
+    },
+    {
+      "offset": 688,
+      "size": 4,
+      "kor": "조휴"
+    },
+    {
+      "offset": 731,
+      "size": 4,
+      "kor": "조인"
+    },
+    {
+      "offset": 774,
+      "size": 4,
+      "kor": "장료"
+    },
+    {
+      "offset": 817,
+      "size": 6,
+      "kor": "하후상"
+    },
+    {
+      "offset": 860,
+      "size": 6,
+      "kor": "하후위"
+    },
+    {
+      "offset": 903,
+      "size": 4,
+      "kor": "서성"
+    },
+    {
+      "offset": 946,
+      "size": 4,
+      "kor": "주연"
+    },
+    {
+      "offset": 989,
+      "size": 4,
+      "kor": "주항"
+    },
+    {
+      "offset": 1032,
+      "size": 4,
+      "kor": "감녕"
+    },
+    {
+      "offset": 1075,
+      "size": 4,
+      "kor": "주방"
+    },
+    {
+      "offset": 1118,
+      "size": 4,
+      "kor": "주태"
+    },
+    {
+      "offset": 1161,
+      "size": 4,
+      "kor": "우번"
+    },
+    {
+      "offset": 1204,
+      "size": 4,
+      "kor": "등지"
+    },
+    {
+      "offset": 1247,
+      "size": 4,
+      "kor": "조운"
+    },
+    {
+      "offset": 1290,
+      "size": 4,
+      "kor": "장비"
+    },
+    {
+      "offset": 1333,
+      "size": 4,
+      "kor": "위연"
+    },
+    {
+      "offset": 1376,
+      "size": 4,
+      "kor": "마초"
+    },
+    {
+      "offset": 1419,
+      "size": 4,
+      "kor": "왕항"
+    },
+    {
+      "offset": 1462,
+      "size": 4,
+      "kor": "정병"
+    },
+    {
+      "offset": 1505,
+      "size": 4,
+      "kor": "장휴"
+    },
+    {
+      "offset": 1548,
+      "size": 4,
+      "kor": "감택"
+    },
+    {
+      "offset": 1591,
+      "size": 4,
+      "kor": "능통"
+    },
+    {
+      "offset": 1634,
+      "size": 4,
+      "kor": "맹우"
+    },
+    {
+      "offset": 1677,
+      "size": 6,
+      "kor": "제갈량"
+    },
+    {
+      "offset": 1720,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 1763,
+      "size": 4,
+      "kor": "곽혁"
+    },
+    {
+      "offset": 1806,
+      "size": 4,
+      "kor": "미축"
+    },
+    {
+      "offset": 1849,
+      "size": 4,
+      "kor": "곽회"
+    },
+    {
+      "offset": 1892,
+      "size": 4,
+      "kor": "관흥"
+    },
+    {
+      "offset": 1935,
+      "size": 4,
+      "kor": "진군"
+    },
+    {
+      "offset": 1978,
+      "size": 4,
+      "kor": "관삭"
+    },
+    {
+      "offset": 2021,
+      "size": 6,
+      "kor": "두사왕"
+    },
+    {
+      "offset": 2064,
+      "size": 6,
+      "kor": "장의거"
+    },
+    {
+      "offset": 2107,
+      "size": 6,
+      "kor": "동다노"
+    },
+    {
+      "offset": 2150,
+      "size": 6,
+      "kor": "아회남"
+    },
+    {
+      "offset": 2193,
+      "size": 6,
+      "kor": "금환결"
+    },
+    {
+      "offset": 2236,
+      "size": 4,
+      "kor": "이적"
+    },
+    {
+      "offset": 2279,
+      "size": 4,
+      "kor": "조범"
+    },
+    {
+      "offset": 2322,
+      "size": 4,
+      "kor": "옹개"
+    },
+    {
+      "offset": 2365,
+      "size": 4,
+      "kor": "고정"
+    },
+    {
+      "offset": 2408,
+      "size": 4,
+      "kor": "주포"
+    },
+    {
+      "offset": 2451,
+      "size": 4,
+      "kor": "동윤"
+    },
+    {
+      "offset": 2494,
+      "size": 4,
+      "kor": "황충"
+    },
+    {
+      "offset": 2537,
+      "size": 4,
+      "kor": "이이"
+    },
+    {
+      "offset": 2580,
+      "size": 4,
+      "kor": "손건"
+    },
+    {
+      "offset": 2623,
+      "size": 4,
+      "kor": "장익"
+    },
+    {
+      "offset": 2666,
+      "size": 4,
+      "kor": "공지"
+    },
+    {
+      "offset": 2709,
+      "size": 4,
+      "kor": "왕평"
+    },
+    {
+      "offset": 2752,
+      "size": 4,
+      "kor": "여개"
+    },
+    {
+      "offset": 2795,
+      "size": 4,
+      "kor": "왕수"
+    },
+    {
+      "offset": 2838,
+      "size": 4,
+      "kor": "오의"
+    },
+    {
+      "offset": 2881,
+      "size": 4,
+      "kor": "조통"
+    },
+    {
+      "offset": 2924,
+      "size": 6,
+      "kor": "사마의"
+    },
+    {
+      "offset": 2967,
+      "size": 4,
+      "kor": "육손"
+    },
+    {
+      "offset": 3010,
+      "size": 6,
+      "kor": "하후혜"
+    },
+    {
+      "offset": 3053,
+      "size": 4,
+      "kor": "장완"
+    },
+    {
+      "offset": 3096,
+      "size": 4,
+      "kor": "문빙"
+    },
+    {
+      "offset": 3139,
+      "size": 6,
+      "kor": "하후무"
+    },
+    {
+      "offset": 3182,
+      "size": 4,
+      "kor": "서황"
+    },
+    {
+      "offset": 3225,
+      "size": 4,
+      "kor": "장합"
+    },
+    {
+      "offset": 3268,
+      "size": 4,
+      "kor": "조장"
+    },
+    {
+      "offset": 3311,
+      "size": 4,
+      "kor": "학소"
+    },
+    {
+      "offset": 3354,
+      "size": 4,
+      "kor": "왕개"
+    },
+    {
+      "offset": 3397,
+      "size": 4,
+      "kor": "왕충"
+    },
+    {
+      "offset": 3440,
+      "size": 4,
+      "kor": "조광"
+    },
+    {
+      "offset": 3483,
+      "size": 4,
+      "kor": "정보"
+    },
+    {
+      "offset": 3526,
+      "size": 4,
+      "kor": "비위"
+    },
+    {
+      "offset": 3569,
+      "size": 4,
+      "kor": "마량"
+    },
+    {
+      "offset": 3612,
+      "size": 4,
+      "kor": "조예"
+    },
+    {
+      "offset": 3655,
+      "size": 4,
+      "kor": "가후"
+    },
+    {
+      "offset": 3698,
+      "size": 4,
+      "kor": "주치"
+    },
+    {
+      "offset": 3741,
+      "size": 4,
+      "kor": "설종"
+    },
+    {
+      "offset": 3784,
+      "size": 4,
+      "kor": "등애"
+    },
+    {
+      "offset": 3827,
+      "size": 4,
+      "kor": "오반"
+    },
+    {
+      "offset": 3870,
+      "size": 4,
+      "kor": "엄안"
+    },
+    {
+      "offset": 3913,
+      "size": 4,
+      "kor": "양홍"
+    },
+    {
+      "offset": 3956,
+      "size": 4,
+      "kor": "상귄"
+    },
+    {
+      "offset": 3999,
+      "size": 6,
+      "kor": "관구검"
+    },
+    {
+      "offset": 4042,
+      "size": 4,
+      "kor": "후성"
+    },
+    {
+      "offset": 4085,
+      "size": 6,
+      "kor": "하후패"
+    },
+    {
+      "offset": 4128,
+      "size": 4,
+      "kor": "여의"
+    },
+    {
+      "offset": 4171,
+      "size": 6,
+      "kor": "사마가"
+    },
+    {
+      "offset": 4214,
+      "size": 4,
+      "kor": "가화"
+    },
+    {
+      "offset": 4257,
+      "size": 4,
+      "kor": "유연"
+    },
+    {
+      "offset": 4300,
+      "size": 6,
+      "kor": "곽유지"
+    },
+    {
+      "offset": 4343,
+      "size": 6,
+      "kor": "하후화"
+    },
+    {
+      "offset": 4386,
+      "size": 4,
+      "kor": "유파"
+    },
+    {
+      "offset": 4429,
+      "size": 4,
+      "kor": "상총"
+    },
+    {
+      "offset": 4472,
+      "size": 6,
+      "kor": "제갈각"
+    },
+    {
+      "offset": 4515,
+      "size": 4,
+      "kor": "장승"
+    },
+    {
+      "offset": 4558,
+      "size": 4,
+      "kor": "사정"
+    },
+    {
+      "offset": 4601,
+      "size": 4,
+      "kor": "우금"
+    },
+    {
+      "offset": 4644,
+      "size": 4,
+      "kor": "서상"
+    },
+    {
+      "offset": 4687,
+      "size": 4,
+      "kor": "가규"
+    },
+    {
+      "offset": 4730,
+      "size": 4,
+      "kor": "장소"
+    },
+    {
+      "offset": 4773,
+      "size": 4,
+      "kor": "간옹"
+    },
+    {
+      "offset": 4816,
+      "size": 4,
+      "kor": "담웅"
+    },
+    {
+      "offset": 4859,
+      "size": 4,
+      "kor": "마충"
+    },
+    {
+      "offset": 4902,
+      "size": 4,
+      "kor": "유반"
+    },
+    {
+      "offset": 4945,
+      "size": 4,
+      "kor": "주령"
+    },
+    {
+      "offset": 4988,
+      "size": 4,
+      "kor": "손항"
+    },
+    {
+      "offset": 5031,
+      "size": 4,
+      "kor": "곽준"
+    },
+    {
+      "offset": 5074,
+      "size": 4,
+      "kor": "유표"
+    },
+    {
+      "offset": 5117,
+      "size": 4,
+      "kor": "장저"
+    },
+    {
+      "offset": 5160,
+      "size": 4,
+      "kor": "마속"
+    },
+    {
+      "offset": 5203,
+      "size": 4,
+      "kor": "허정"
+    },
+    {
+      "offset": 5246,
+      "size": 4,
+      "kor": "이전"
+    },
+    {
+      "offset": 5289,
+      "size": 4,
+      "kor": "염포"
+    },
+    {
+      "offset": 5332,
+      "size": 4,
+      "kor": "진희"
+    },
+    {
+      "offset": 5375,
+      "size": 4,
+      "kor": "맹달"
+    },
+    {
+      "offset": 5418,
+      "size": 4,
+      "kor": "장포"
+    },
+    {
+      "offset": 5461,
+      "size": 4,
+      "kor": "번장"
+    },
+    {
+      "offset": 5504,
+      "size": 4,
+      "kor": "양추"
+    },
+    {
+      "offset": 5547,
+      "size": 6,
+      "kor": "제갈근"
+    },
+    {
+      "offset": 5590,
+      "size": 4,
+      "kor": "정봉"
+    },
+    {
+      "offset": 5633,
+      "size": 4,
+      "kor": "전만"
+    },
+    {
+      "offset": 5676,
+      "size": 4,
+      "kor": "장달"
+    },
+    {
+      "offset": 5719,
+      "size": 4,
+      "kor": "동형"
+    },
+    {
+      "offset": 5762,
+      "size": 4,
+      "kor": "진태"
+    },
+    {
+      "offset": 5805,
+      "size": 4,
+      "kor": "동습"
+    },
+    {
+      "offset": 5848,
+      "size": 4,
+      "kor": "범강"
+    },
+    {
+      "offset": 5891,
+      "size": 4,
+      "kor": "진무"
+    },
+    {
+      "offset": 5934,
+      "size": 4,
+      "kor": "장영"
+    },
+    {
+      "offset": 5977,
+      "size": 4,
+      "kor": "장익"
+    },
+    {
+      "offset": 6020,
+      "size": 4,
+      "kor": "마대"
+    },
+    {
+      "offset": 6063,
+      "size": 4,
+      "kor": "법정"
+    },
+    {
+      "offset": 6106,
+      "size": 4,
+      "kor": "비시"
+    },
+    {
+      "offset": 6149,
+      "size": 4,
+      "kor": "진식"
+    },
+    {
+      "offset": 6192,
+      "size": 4,
+      "kor": "왕위"
+    },
+    {
+      "offset": 6235,
+      "size": 4,
+      "kor": "부동"
+    },
+    {
+      "offset": 6278,
+      "size": 4,
+      "kor": "방의"
+    },
+    {
+      "offset": 6321,
+      "size": 4,
+      "kor": "윤목"
+    },
+    {
+      "offset": 6364,
+      "size": 4,
+      "kor": "보즐"
+    },
+    {
+      "offset": 6407,
+      "size": 4,
+      "kor": "모개"
+    },
+    {
+      "offset": 6450,
+      "size": 4,
+      "kor": "한숭"
+    },
+    {
+      "offset": 6493,
+      "size": 4,
+      "kor": "요화"
+    },
+    {
+      "offset": 6536,
+      "size": 4,
+      "kor": "엄준"
+    },
+    {
+      "offset": 6579,
+      "size": 4,
+      "kor": "두습"
+    },
+    {
+      "offset": 6622,
+      "size": 4,
+      "kor": "종요"
+    },
+    {
+      "offset": 6665,
+      "size": 4,
+      "kor": "양의"
+    },
+    {
+      "offset": 6708,
+      "size": 4,
+      "kor": "문흠"
+    },
+    {
+      "offset": 6751,
+      "size": 4,
+      "kor": "이엄"
+    },
+    {
+      "offset": 6794,
+      "size": 4,
+      "kor": "여견"
+    },
+    {
+      "offset": 6837,
+      "size": 4,
+      "kor": "유엽"
+    },
+    {
+      "offset": 6880,
+      "size": 4,
+      "kor": "이회"
+    },
+    {
+      "offset": 6923,
+      "size": 4,
+      "kor": "육적"
+    },
+    {
+      "offset": 6966,
+      "size": 4,
+      "kor": "방유"
+    },
+    {
+      "offset": 7009,
+      "size": 4,
+      "kor": "손례"
+    },
+    {
+      "offset": 7052,
+      "size": 4,
+      "kor": "여건"
+    },
+    {
+      "offset": 7095,
+      "size": 4,
+      "kor": "여상"
+    },
+    {
+      "offset": 7138,
+      "size": 4,
+      "kor": "여범"
+    },
+    {
+      "offset": 7181,
+      "size": 4,
+      "kor": "여패"
+    },
+    {
+      "offset": 7224,
+      "size": 4,
+      "kor": "냉포"
+    },
+    {
+      "offset": 7267,
+      "size": 4,
+      "kor": "왕광"
+    },
+    {
+      "offset": 7310,
+      "size": 4,
+      "kor": "고옹"
+    },
+    {
+      "offset": 7353,
+      "size": 4,
+      "kor": "전종"
+    },
+    {
+      "offset": 7396,
+      "size": 4,
+      "kor": "장온"
+    },
+    {
+      "offset": 7439,
+      "size": 4,
+      "kor": "왕쌍"
+    },
+    {
+      "offset": 7482,
+      "size": 4,
+      "kor": "장호"
+    },
+    {
+      "offset": 7525,
+      "size": 4,
+      "kor": "등의"
+    },
+    {
+      "offset": 7568,
+      "size": 4,
+      "kor": "정무"
+    },
+    {
+      "offset": 7611,
+      "size": 4,
+      "kor": "황권"
+    },
+    {
+      "offset": 7654,
+      "size": 4,
+      "kor": "항계"
+    },
+    {
+      "offset": 7697,
+      "size": 4,
+      "kor": "진란"
+    },
+    {
+      "offset": 7740,
+      "size": 4,
+      "kor": "후선"
+    },
+    {
+      "offset": 7783,
+      "size": 4,
+      "kor": "뇌박"
+    },
+    {
+      "offset": 7826,
+      "size": 4,
+      "kor": "반준"
+    }
+  ]
+]

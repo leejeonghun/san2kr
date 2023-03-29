@@ -1,0 +1,8 @@
+Language: Cpp
+BasedOnStyle: Google
+TabWidth: 2
+SpaceBeforeCpp11BracedList: true
+Cpp11BracedListStyle: false
+AlignAfterOpenBracket: DontAlign
+IncludeBlocks: Merge
+NamespaceIndentation: Inner
