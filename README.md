@@ -5,7 +5,7 @@
 
 코에이테크모의 스팀판 [삼국지2](https://store.steampowered.com/app/521690/Romance_of_the_Three_Kingdoms_II/)의 한글 패치입니다.
 
-![screenshot](https://github.com/leejeonghun/san2kr/assets/11531985/f6341895-d19c-4843-93da-5101d80598cc)
+![screenshot](https://github.com/leejeonghun/san2kr/assets/11531985/32652d6f-3f94-473d-9b2f-a636b902577e)
 
 
 ## 기능
