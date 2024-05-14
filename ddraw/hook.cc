@@ -53,8 +53,14 @@ BOOL WINAPI hook_textouta(HDC hdc, int x, int y, LPCSTR lpString, int c) {
     result = textouta.call_origin<decltype(&TextOutA)>(
         hdc, x, y, fonts_row, strlen(fonts_row));
     SelectObject(hdc, org_font);
-  } else
+  } else if (font_raw_cnt == 0) {
+    char remove_furigana[0x67] = { 0 };
+    memcpy(remove_furigana, lpString, sizeof(remove_furigana) - 1);
+    result = textouta.call_origin<decltype(&TextOutA)>(
+        hdc, x, y, remove_furigana, sizeof(remove_furigana) - 1);
+  } else {
     result = textouta.call_origin<decltype(&TextOutA)>(hdc, x, y, lpString, c);
+  }
 
   font_raw_cnt++;
 
