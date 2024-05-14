@@ -75,7 +75,7 @@ HWND WINAPI hook_createwindowexa(DWORD dwExStyle, LPCSTR lpClassName,
       lpClassName, lpWindowName, dwStyle, X, Y, nWidth, nHeight, hWndParent,
       kr_menu, hInstance, lpParam);
   SetWindowTextW(hwnd, codepage<932>(lpWindowName));
-  memory_patch::apply(dll_handle);
+  memory_patch::patch_to_code(dll_handle);
 
   return hwnd;
 }
@@ -146,6 +146,13 @@ int WINAPI hook_messageboxa(
     caption ? caption : codepage<932>(lpCaption), uType);
 }
 
+iat_hooker showwindow;
+BOOL WINAPI hook_ShowWindow(HWND hWnd, int nCmdShow) {
+  memory_patch::patch_to_fdi();
+  return showwindow.call_origin<decltype(&ShowWindow)>(hWnd, nCmdShow);
+}
+
+
 bool install(HMODULE hdll) {
   dll_handle = hdll;
   kr_menu = LoadMenu(hdll, MAKEINTRESOURCE(102));
@@ -158,7 +165,8 @@ bool install(HMODULE hdll) {
     insertmenua.hook(hinst, "user32.dll", "InsertMenuA", hook_insertmenua) &&
     appendmenua.hook(hinst, "user32.dll", "AppendMenuA", hook_appendmenua) &&
     createdialogparama.hook(hinst, "user32.dll", "CreateDialogParamA", hook_createdialogparama) &&
-    messageboxa.hook(hinst, "user32.dll", "MessageBoxA", hook_messageboxa);
+    messageboxa.hook(hinst, "user32.dll", "MessageBoxA", hook_messageboxa) &&
+    showwindow.hook(hinst, "user32.dll", "ShowWindow", hook_ShowWindow);
 }
 
 bool uninstall() {
@@ -169,7 +177,8 @@ bool uninstall() {
     insertmenua.unhook() &&
     appendmenua.unhook() &&
     createdialogparama.unhook() &&
-    messageboxa.unhook();
+    messageboxa.unhook() &&
+    showwindow.unhook();
 }
 
 }  // namespace hook

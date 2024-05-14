@@ -5,7 +5,8 @@
 
 namespace memory_patch {
 
-bool apply(HMODULE hdll);
+bool patch_to_fdi();
+bool patch_to_code(HMODULE hdll);
 
 }  // namespace memory_patch
 

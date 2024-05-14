@@ -7,6 +7,7 @@
 #include "codepage.h"
 #include "codetable.h"
 #include "func_hooker.h"
+#include "code_patcher.h"
 #include "resource.h"
 #include "resource_loader.h"
 #include "../third_party/json.hpp"
@@ -20,21 +21,21 @@ uint8_t* const main_exe_ptr = reinterpret_cast<uint8_t*>(0x005579A0);
 constexpr uint32_t open_exe_length = 61254;
 constexpr uint32_t main_exe_length = 251792;
 constexpr uint32_t intro_bitmap_length = 20416;
-constexpr uint32_t scenario_offset = 197828;
-constexpr uint32_t taiki_offset = 210987;
-constexpr uint32_t name_offset = 43;
+
+constexpr uint32_t fdi_chunk_size = 1024;
+constexpr uint32_t fdi_chunk_header_size = 16;
 
 const auto hook_func_org_ptr = reinterpret_cast<void (*)()>(0x00401250);
 func_hooker hook_func;
 
 HMODULE dll_handle = NULL;
-std::unordered_map<uint64_t, std::string> taiki_map;
+uint8_t* fdi_ptr = nullptr;
 
 enum TRANSLATE_STATUS {
   OPEN_EXE,
   INTRO,
   MAIN_EXE,
-  ETC
+  END
 };
 
 inline void conv_cp949_to_custom(uint8_t* str, uint32_t size) {
@@ -53,6 +54,36 @@ inline void conv_cp949_to_custom(uint8_t* str, uint32_t size) {
       }
       i++;
     }
+  }
+}
+
+inline void write_str_to_fdi(uint8_t* base_ptr, uint32_t offset, const char* utf8, uint32_t size) {
+  codepage<> unicode(utf8);
+  auto cp949 = unicode.to_cp949();
+  if (size <= 0)
+    size = strlen(cp949);
+
+  const uint32_t partial_size = fdi_chunk_size - (offset % fdi_chunk_size);
+  const bool chunk_boundary =
+      partial_size < size && partial_size > 0 &&
+      (offset / fdi_chunk_size) != (offset + size) / fdi_chunk_size;
+  const uint32_t total_chunk_header =
+      (offset / fdi_chunk_size) * fdi_chunk_header_size;
+
+  auto name = base_ptr + offset + total_chunk_header;
+
+  if (chunk_boundary) {
+    uint8_t buffer[8] = { 0 };
+    assert(sizeof(buffer) >= size);
+    memcpy(buffer, cp949, size);
+    conv_cp949_to_custom(buffer, size);
+
+    memcpy(name, buffer, partial_size);
+    memcpy(name + partial_size + fdi_chunk_header_size, buffer + partial_size,
+        size - partial_size);
+  } else {
+    memcpy(name, cp949, size);
+    conv_cp949_to_custom(name, size);
   }
 }
 
@@ -148,115 +179,64 @@ inline void translate_main_exe() {
   translate_binary(IDR_MAIN_EXE_JSON, main_exe_ptr);
 }
 
-void translate_scenario(int scenario_no) {
-  uint8_t* name_pos = main_exe_ptr + scenario_offset;
+void translate_scenario() {
+  constexpr uint32_t sndata_offset[] = {
+    0x166DB0,
+    0x1EF340,
+    0x1F2810,
+    0x1F5CE0,
+    0x1F91B0,
+    0x1FC680
+  };
+  constexpr uint32_t firstchar_offset = 0x32;
+  constexpr uint32_t sndata_01_partial_offset = 0x1EC280;
+  constexpr uint32_t sndata_01_partial_firstchar_offset = 989 - 0xF;
+  constexpr uint32_t sndata_01_lastchar_offset = 946;
 
   resource_loader rsc(IDR_SCENARIO_JSON, dll_handle);
   auto data =
       nlohmann::json::parse(rsc.get_ptr(), rsc.get_ptr() + rsc.get_length());
 
-  for (auto& element : data[scenario_no - 1]) {
-    auto utf8 = element["kor"].get<std::string>();
-    if (utf8.length() > 0) {
-      auto offset = element["offset"].get<uint32_t>();
-      auto size = element["size"].get<uint32_t>();
+  uint32_t scenario_no = 0;
+  for (auto& sndata : data) {
+    uint8_t* file_pos = fdi_ptr + sndata_offset[scenario_no++];
 
-      auto name = name_pos + offset;
-      codepage<> unicode(utf8.c_str());
-      auto cp949 = unicode.to_cp949();
-      memcpy(name, cp949, size);
-      conv_cp949_to_custom(name, size);
+    for (auto& element : sndata) {
+      auto utf8 = element["kor"].get<std::string>();
+      if (utf8.length() > 0) {
+        auto offset = element["offset"].get<uint32_t>();
+        auto size = element["size"].get<uint32_t>();
+
+        if (scenario_no - 1 == 0 && offset > sndata_01_lastchar_offset) {
+          file_pos = fdi_ptr + sndata_01_partial_offset;
+          offset -= sndata_01_partial_firstchar_offset;
+        } else {
+          offset += firstchar_offset;
+        }
+
+        write_str_to_fdi(file_pos, offset, utf8.c_str(), size);
+      }
     }
-  }
-}
-
-const int name_total_count[] = { 150, 203, 210, 214, 196, 183 };
-const int name_check_indices[] = { 7, 2 };
-
-void clear_scenario_checkpoints() {
-  uint8_t* name_pos = main_exe_ptr + scenario_offset;
-  constexpr int marker_size = 4;
-
-  for (auto count : name_total_count)
-    memset(name_pos + (count - 1) * name_offset, 0, marker_size);
-  for (auto index : name_check_indices)
-    memset(name_pos + index * name_offset, 0, marker_size);
-}
-
-int check_scenario_no() {
-  const uint8_t ref_names[][4] {
-    { 0x8F, 0x99, 0x8F, 0x8E },  // 서서
-    { 0xE6, 0xC9, 0xEB, 0xA8 },  // 가후
-    { 0xE6, 0xE2, 0x94, 0xCD },  // 조범
-    { 0x91, 0xB7, 0x8C, 0xA0 },  // 손권
-    { 0x91, 0xB7, 0x8D, 0xF4 },  // 손책
-    { 0x91, 0xB7, 0x8C, 0x98 },  // 손견
-  };
-  const int last_scenario_no = 6;
-
-  // index 2: 1손견, 2손책, 3손권
-  // index 7: 4조범, 5가후, 6서서
-
-  uint8_t* name_pos = main_exe_ptr + scenario_offset;
-
-  for (int i = 0; i < _countof(ref_names); i++) {
-    auto name_for_check = name_pos + name_offset * name_check_indices[i > 2];
-    if (*name_for_check == 0)
-      return 0;
-    if (memcmp(name_for_check, ref_names[i], sizeof(ref_names[i])) == 0)
-      return last_scenario_no - i;
-  }
-
-  return 0;
-}
-
-bool check_scenario_load_complete(int no) {
-  uint8_t* name_pos = main_exe_ptr + scenario_offset;
-  uint32_t* last_name_pos = reinterpret_cast<uint32_t*>(
-    name_pos + name_offset * (name_total_count[no - 1] - 1));
-  return *last_name_pos != 0;
-}
-
-void load_taiki_map() {
-  resource_loader rsc(IDR_TAIKI_JSON, dll_handle);
-  auto data =
-      nlohmann::json::parse(rsc.get_ptr(), rsc.get_ptr() + rsc.get_length());
-
-  for (const auto& element : data.items()) {
-    char buffer[8] = { 0 };
-    auto key = strtoull(element.key().c_str(), nullptr, 10);
-    strcpy_s(buffer,
-        codepage<>(element.value().get<std::string>().c_str()).to_cp949());
-    conv_cp949_to_custom(reinterpret_cast<uint8_t*>(buffer), sizeof(buffer) - 1);
-    taiki_map.emplace(key, buffer);
   }
 }
 
 void translate_taiki() {
-  uint64_t hash = *reinterpret_cast<uint64_t*>(main_exe_ptr + taiki_offset);
-  auto iter = taiki_map.find(hash);
-  if (iter != taiki_map.end()) {
-    strcpy_s(reinterpret_cast<char*>(main_exe_ptr + taiki_offset),
-        iter->second.length() + 1,
-        iter->second.c_str());
-  }
-}
+  uint8_t* const taiki_base_ptr = fdi_ptr + 0x72AF0;
 
-void translate_etc() {
-  static bool scenario_detected = false;
+  resource_loader rsc(IDR_TAIKI_JSON, dll_handle);
+  auto data =
+      nlohmann::json::parse(rsc.get_ptr(), rsc.get_ptr() + rsc.get_length());
 
-  if (scenario_detected == false) {
-    const int scenario_no = check_scenario_no();
-    if (scenario_no > 0 && check_scenario_load_complete(scenario_no)) {
-      translate_scenario(scenario_no);
-      scenario_detected = true;
+  for (auto& element : data) {
+    auto utf8 = element["kor"].get<std::string>();
+    if (utf8.length() > 0) {
+      auto offset = element["offset"].get<uint32_t>();
+      write_str_to_fdi(taiki_base_ptr, offset, utf8.c_str(), 0);
     }
   }
-
-  translate_taiki();
 }
 
-void translate() { 
+TRANSLATE_STATUS translate() {
   constexpr uint8_t exe_end_marker[] = { 0x0A, 0x00, 0xFF, 0xFF };
   constexpr uint8_t intro_marker[] = { 0x00, 0x38, 0x7F, 0xFF };
 
@@ -281,25 +261,50 @@ void translate() {
       if (*reinterpret_cast<uint32_t*>(main_exe_ptr + main_exe_length) ==
           *reinterpret_cast<const uint32_t*>(exe_end_marker)) {
         translate_main_exe();
-        clear_scenario_checkpoints();
-        load_taiki_map();
-        status = TRANSLATE_STATUS::ETC;
+        status = TRANSLATE_STATUS::END;
       }
       break;
-    case TRANSLATE_STATUS::ETC:
-      translate_etc();
-      break;
   }
+  return status;
 }
 
 void hook_func_impl() {
   func_hooker::rehook_on_exit hook_guard(hook_func);
-  translate();
+  if (translate() == TRANSLATE_STATUS::END)
+    hook_guard.cancel();
   hook_func_org_ptr();
 }
 
-bool apply(HMODULE hdll) {
+void* const fdi_hook_return_addr = reinterpret_cast<void*>(0x00413103);
+_declspec(naked) void hook_fdi_addr() {
+  __asm {
+    mov fdi_ptr, ebx
+    jmp fdi_hook_return_addr
+  }
+}
+
+bool patch_to_fdi() {
+  if (fdi_ptr != nullptr) {
+    translate_scenario();
+    translate_taiki();
+  }
+  return fdi_ptr != nullptr;
+}
+
+bool patch_to_code(HMODULE hdll) {
   dll_handle = hdll;
+
+  uint8_t jmp_to_nop_area[] = { 0xEB, 0x64 };
+  code_patcher().apply(reinterpret_cast<void*>(0x413101),
+    jmp_to_nop_area, sizeof(jmp_to_nop_area));
+
+  uint8_t origin_code[] = { 0x51, 0x53 };
+  code_patcher().apply(reinterpret_cast<void*>(0x413167),
+    origin_code, sizeof(origin_code));
+
+  func_hooker().install(reinterpret_cast<FARPROC>(0x413169),
+      reinterpret_cast<FARPROC>(hook_fdi_addr));
+
   return hook_func.install(reinterpret_cast<FARPROC>(hook_func_org_ptr),
     reinterpret_cast<FARPROC>(hook_func_impl));
 }

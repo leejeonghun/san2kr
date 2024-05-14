@@ -48,6 +48,9 @@
     <ClInclude Include="resource_loader.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="code_patcher.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hook.cc">
@@ -72,6 +75,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="resource_loader.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code_patcher.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

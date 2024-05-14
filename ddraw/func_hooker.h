@@ -26,10 +26,12 @@ class func_hooker final {
     rehook_on_exit(const func_hooker& hooker) : hooker_(hooker) {
       hooker_.unhook();
     }
-    ~rehook_on_exit() { hooker_.hook(); }
+    ~rehook_on_exit() { if (!cancel_) hooker_.hook(); }
+    void cancel() { cancel_ = true; }
 
    private:
     const func_hooker& hooker_;
+    bool cancel_ = false;
   };
 
   func_hooker() = default;

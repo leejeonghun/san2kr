@@ -92,6 +92,7 @@
   <ItemGroup>
     <ClInclude Include="codepage.h" />
     <ClInclude Include="codetable.h" />
+    <ClInclude Include="code_patcher.h" />
     <ClInclude Include="dll_loader.h" />
     <ClInclude Include="func_hooker.h" />
     <ClInclude Include="hook.h" />
@@ -103,6 +104,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="codetable.cc" />
+    <ClCompile Include="code_patcher.cc" />
     <ClCompile Include="func_hooker.cc" />
     <ClCompile Include="hook.cc" />
     <ClCompile Include="iat_hooker.cc" />
